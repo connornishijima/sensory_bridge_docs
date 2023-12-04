@@ -18,6 +18,8 @@ If something about your Sensory Bridge is not functioning properly, there is an 
 
 If you also ordered a Mini Mast, you'll need to remove the two small screws from the upper brace, and then you can insert the Mini Mast into Sensory Bridge as shown:
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast_insert.png?raw=true)
+
 # LED WIRING
 
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
@@ -38,6 +40,8 @@ If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK
 - GND (BLACK)
 
 It's likely that your strip came with a connector on the end. This must be cut off, and the wires stripped back by ~4mm for the best results.
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/wire_insert.png?raw=true)
 
 Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself.
 NOTE: Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, or individually covered with electrical tape if you plan to power the LEDs using the Sensory Bridge.
