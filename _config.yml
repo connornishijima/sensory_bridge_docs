@@ -14,7 +14,7 @@ callouts:
     title: WATCH OUT!
     color: red
   highlight:
-    title: PLEASE NOTE:
+    title: PLEASE NOTE
     color: yellow
 
 aux_links:
