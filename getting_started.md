@@ -99,6 +99,8 @@ To set this up, first make sure that no music is already playing in the room - o
 
 Did it work? Your LED strip should now stay completely off when you're not making noise or playing music, try it out! You can repeat the calibration at any time, which I would recommend doing if your Sensory Bridge is moved to another room or when ambient conditions change.
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/14.jpg?raw=true)
+
 # FIRST TESTS
 
 -----------------------------------------------------------------------
