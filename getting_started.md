@@ -58,7 +58,7 @@ Some strips have duplicate wires for 5V and GND. These can be wired to a separat
 
 You're almost ready to go! Next, plug a 5V/2A USB-C cable into the port at the rear of the unit. If all is well, you should see the "Sweet Spot" LEDs light up.
 
-Turn the three knobs all the way up to the following position:
+**Turn the three knobs all the way up to the following position:**
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/2.jpg?raw=true)
 
