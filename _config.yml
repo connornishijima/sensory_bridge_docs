@@ -16,6 +16,9 @@ callouts:
   highlight:
     title: PLEASE NOTE
     color: yellow
+  info:
+    title: JUST SO YOU KNOW
+    color: blue
 
 aux_links:
   More From Lixie Labs: https://github.com/connornishijima
