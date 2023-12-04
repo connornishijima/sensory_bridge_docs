@@ -3,6 +3,8 @@ title: Getting Started
 layout: page
 ---
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
+
 # GETTING STARTED with SENSORY BRIDGE
 
 Hello! First off - thank you for supporting Lixie Labs. I began designing this product in March 2022, and a lot of love has gone into it up to this moment.
