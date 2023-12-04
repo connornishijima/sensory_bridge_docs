@@ -7,6 +7,8 @@ layout: page
 
 # GETTING STARTED with SENSORY BRIDGE
 
+-----------------------------------------------------------------------
+
 Hello! First off - thank you for supporting Lixie Labs. I began designing this product in March 2022, and a lot of love has gone into it up to this moment.
 
 Sensory Bridge is quite easy to set up, so let's go over how to get it working.
@@ -18,11 +20,15 @@ If something about your Sensory Bridge is not functioning properly, there is an 
 
 # SOME ASSEMBLY REQUIRED
 
+-----------------------------------------------------------------------
+
 If you also ordered a Mini Mast, you'll need to remove the two small screws from the upper brace, and then you can insert the Mini Mast into Sensory Bridge as shown:
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast_insert.png?raw=true)
 
 # LED WIRING
+
+-----------------------------------------------------------------------
 
 {: .warning }
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
@@ -55,6 +61,8 @@ Some strips have duplicate wires for 5V and GND. These can be wired to a separat
 
 # PLUGGING IN FOR THE FIRST TIME
 
+-----------------------------------------------------------------------
+
 You're almost ready to go! Next, plug a 5V/2A USB-C cable into the port at the rear of the unit. If all is well, you should see the "Sweet Spot" LEDs light up.
 
 Turn the three knobs all the way up to the following position:
@@ -65,6 +73,8 @@ If you have a 4-wire LED strip, it won't work until the next section of the tuto
 Do you see your LED strip lighting up? Does it flash when you snap your fingers? If not, something could be wrong. Unplug your Sensory Bridge, double-check your wiring, or try the Sensory Bridge Troubleshooting Guide
 
 # SETTINGS CONFIGURATION
+
+-----------------------------------------------------------------------
 
 To change the settings on your device, visit settings.sensorybridge.rocks on a computer, with your Sensory Bridge plugged into your computer. You'll be asked to choose your device from a list, and in most cases you'll only see one option.
 
@@ -80,12 +90,16 @@ On the settings page, in the LEDS section, change the "TYPE" from "NEOPIXEL" (th
 
 # INITIAL CALIBRATION
 
+-----------------------------------------------------------------------
+
 Sensory Bridge has the ability to ignore ambient noise in the room, such as computer fans, washing machines, etc.
 To set this up, first make sure that no music is already playing in the room - only the ambient noise you want to remove. (No talking either) Then, press the NOISE button to start the calibration. This will only take about 3 seconds, and you'll see a pink-colored graph of the captured noise on the LED strip during the process.
 
 Did it work? Your LED strip should now stay completely off when you're not making noise or playing music, try it out! You can repeat the calibration at any time, which I would recommend doing if your Sensory Bridge is moved to another room or when ambient conditions change.
 
 # FIRST TESTS
+
+-----------------------------------------------------------------------
 
 You next move should be to dial back that MOOD knob to 50% or so. This is the range which produces the nicest shows with the most music types. 100% "mood" is great for home raves, 10% is great for extremely mellow shows.
 Now, try it out!
@@ -101,6 +115,8 @@ Below are some YouTube links to songs that I enjoy on Sensory Bridge:
 YOUTUBE LINKS HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 # SWEET SPOT and CHROMA
+
+-----------------------------------------------------------------------
 
 Lastly, let's discuss the "Sweet Spot" indicator, and what the CHROMA knob does.
 
