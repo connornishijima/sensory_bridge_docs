@@ -63,7 +63,7 @@ Do you see your LED strip lighting up? Does it flash when you snap your fingers?
 
 To change the settings on your device, visit the page below on a computer, with your Sensory Bridge plugged into your computer. You'll be asked to choose your device from a list, and in most cases you'll only see one option.
 
-Configure your device here: settings.sensorybridge.rocks
+[Click to Configure Your Sensory Bridge](https://settings.sensorybridge.rocks){: .btn .btn-blue }
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/settings_page_pic.png?raw=true)
 
