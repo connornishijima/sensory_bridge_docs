@@ -20,18 +20,18 @@ While the advice in this section is likely correct in 99% of cases, ALWAYS doubl
 
 Before powering your Sensory Bridge, you'll need to install your own LED strip if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
 
-5V (RED)
-DAT (WHITE)
-GND (GREEN)
+- 5V (RED)
+- DAT (WHITE)
+- GND (GREEN)
 
 Adressable LED strips like this have both an input side and an output side. Be sure that you're wiring the input side to your Sensory Bridge, otherwise the LEDs won't function properly!
 
 If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK" terminal as well, and reconfigure your device in an upcoming step. Here is the typical wiring color scheme of a DotStar strip:
 
-5V (RED)
-DAT (GREEN)
-CLK (YELLOW)
-GND (BLACK)
+- 5V (RED)
+- DAT (GREEN)
+- CLK (YELLOW)
+- GND (BLACK)
 
 It's likely that your strip came with a connector on the end. This must be cut off, and the wires stripped back by ~4mm for the best results.
 
