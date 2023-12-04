@@ -13,6 +13,9 @@ callouts:
   warning:
     title: WATCH OUT!
     color: red
+  highlight:
+    title: PLEASE NOTE:
+    color: yellow
 
 aux_links:
   More From Lixie Labs: https://github.com/connornishijima
