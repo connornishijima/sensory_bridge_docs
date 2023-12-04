@@ -118,6 +118,8 @@ Below are some YouTube links to songs that I enjoy on Sensory Bridge:
      
 YOUTUBE LINKS HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/5.jpg?raw=true)
+
 # SWEET SPOT and CHROMA
 
 -----------------------------------------------------------------------
