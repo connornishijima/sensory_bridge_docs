@@ -46,11 +46,15 @@ It's likely that your strip came with a connector on the end. This must be cut o
 Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself.
 NOTE: Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, or individually covered with electrical tape if you plan to power the LEDs using the Sensory Bridge.
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/16.jpg?raw=true)
+
 # PLUGGING IN FOR THE FIRST TIME
 
 You're almost ready to go! Next, plug a 5V/2A USB-C cable into the port at the rear of the unit. If all is well, you should see the "Sweet Spot" LEDs light up.
 
 Turn the three knobs all the way up to the following position:
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/2.jpg?raw=true)
 
 If you have a 4-wire LED strip, it won't work until the next section of the tutorial!
 Do you see your LED strip lighting up? Does it flash when you snap your fingers? If not, something could be wrong. Unplug your Sensory Bridge, double-check your wiring, or try the Sensory Bridge Troubleshooting Guide
@@ -58,7 +62,11 @@ Do you see your LED strip lighting up? Does it flash when you snap your fingers?
 # SETTINGS CONFIGURATION
 
 To change the settings on your device, visit the page below on a computer, with your Sensory Bridge plugged into your computer. You'll be asked to choose your device from a list, and in most cases you'll only see one option.
+
 Configure your device here: settings.sensorybridge.rocks
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/settings_page_pic.png?raw=true)
+
 4-WIRE LED STRIP USERS:
 
 On the settings page, in the LEDS section, change the "TYPE" from "NEOPIXEL" (the default) to "DOTSTAR (4-WIRE)". This will make your LED strip finally light up normally! Your extra effort won't go unnoticed, as 4-wire strips have higher frame rate capabilities than others!
