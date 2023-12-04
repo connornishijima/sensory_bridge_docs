@@ -9,23 +9,32 @@ Hello! First off - thank you for supporting Lixie Labs. I began designing this p
 
 Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 If something about your Sensory Bridge is not functioning properly, there is an interactive Troubleshooting Guide that you can follow to try and fix things!
+
 SOME ASSEMBLY REQUIRED
+
 If you also ordered a Mini Mast, you'll need to remove the two small screws from the upper brace, and then you can insert the Mini Mast into Sensory Bridge as shown:
 
 LED WIRING
+
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
+
 Before powering your Sensory Bridge, you'll need to install your own LED strip if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
-5V
-DAT
-GND
+
+5V (RED)
+DAT (WHITE)
+GND (GREEN)
+
 Adressable LED strips like this have both an input side and an output side. Be sure that you're wiring the input side to your Sensory Bridge, otherwise the LEDs won't function properly!
+
 If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK" terminal as well, and reconfigure your device in an upcoming step. Here is the typical wiring color scheme of a DotStar strip:
+
 5V
 DAT
 CLK
 GND (BLACK)
 
 It's likely that your strip came with a connector on the end. This must be cut off, and the wires stripped back by ~4mm for the best results.
+
 Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself.
 NOTE: Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, or individually covered with electrical tape if you plan to power the LEDs using the Sensory Bridge.
 
