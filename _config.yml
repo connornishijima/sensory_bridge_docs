@@ -11,7 +11,7 @@ color_scheme: dark
 
 callouts:
   warning:
-    title: Warning
+    title: WATCH OUT!
     color: red
 
 aux_links:
