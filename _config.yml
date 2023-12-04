@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://connornishijima.github.io/sensory_bridge_docs
 
-logo: "/img/product.png"
+#logo: "/img/product.png"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
