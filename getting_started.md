@@ -88,7 +88,7 @@ To change the settings on your device, visit settings.sensorybridge.rocks on a c
 
 Sensory Bridge has the ability to ignore consistent ambient noise in the room, such as computer fans, washing machines, etc..
 
-To set this up, first make sure that no music is already playing in the room - only the ambient noise you want to remove. (No talking either) Then, press the NOISE button to start the calibration. This will only take about 3 seconds, and you'll see a pink-colored graph of the captured noise on the LED strip during the process.
+To set this up, first make sure that no music is already playing in the room - only the ambient noise you want to remove. (No talking either) Then, press the <sb-button>NOISE</sb-button> button to start the calibration. This will only take about 3 seconds, and you'll see a pink-colored graph of the captured noise on the LED strip during the process.
 
 Did it work? Your LED strip should now stay completely off when you're not making noise or playing music, try it out! You can repeat the calibration at any time, which I would recommend doing if your Sensory Bridge is moved to another room or when ambient conditions change.
 
@@ -99,11 +99,11 @@ Did it work? Your LED strip should now stay completely off when you're not makin
 You next move should be to dial back that MOOD knob to 50% or so. This is the range which produces the nicest shows with the most music types. 100% "mood" is great for home raves, 10% is great for extremely mellow shows.
 Now, try it out!
 
-Put some awesome music on. Play with the MODE button to try different versions of the show, and adjusting the MOOD knob to your liking. Turn down the PHOTONS knob if you find the show to be too bright for you.
+Put some awesome music on. Play with the <sb-button>MODE</sb-button> button to try different versions of the show, and adjusting the MOOD knob to your liking. Turn down the PHOTONS knob if you find the show to be too bright for you.
 
 For the best results, place your Sensory Bridge as close to the music source as possible.
 
-DID YOU KNOW? Holding down the MODE button for longer than 0.5 seconds will toggle a mirrored version of the current light show!
+DID YOU KNOW? Holding down the <sb-button>MODE</sb-button> button for longer than 0.5 seconds will toggle a mirrored version of the current light show!
 
 Below are some YouTube links to songs that I enjoy on Sensory Bridge:
      
