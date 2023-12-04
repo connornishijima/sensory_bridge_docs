@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 layout: page
+has_toc: true
 ---
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
