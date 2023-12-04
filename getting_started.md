@@ -10,6 +10,8 @@ Hello! First off - thank you for supporting Lixie Labs. I began designing this p
 Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 If something about your Sensory Bridge is not functioning properly, there is an interactive Troubleshooting Guide that you can follow to try and fix things!
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/extras/img/anatomy.jpg?raw=true)
+
 # SOME ASSEMBLY REQUIRED
 
 If you also ordered a Mini Mast, you'll need to remove the two small screws from the upper brace, and then you can insert the Mini Mast into Sensory Bridge as shown:
