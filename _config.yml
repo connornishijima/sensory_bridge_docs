@@ -9,5 +9,10 @@ url: https://connornishijima.github.io/sensory_bridge_docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 aux_links:
   More From Lixie Labs: https://github.com/connornishijima
