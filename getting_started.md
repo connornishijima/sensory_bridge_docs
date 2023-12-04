@@ -10,7 +10,7 @@ Hello! First off - thank you for supporting Lixie Labs. I began designing this p
 
 Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 
-{: .highlight }
+{: .info }
 > If something about your Sensory Bridge is not functioning properly, there is an interactive Troubleshooting Guide that you can follow to try and fix things!
 >
 > [Start The Troubleshooter](https://sensorybridge.rocks/troubleshooting/){: .btn .btn-blue }
