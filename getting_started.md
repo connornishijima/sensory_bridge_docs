@@ -75,18 +75,19 @@ To change the settings on your device, visit settings.sensorybridge.rocks on a c
 
 [Click to Configure Your Sensory Bridge](https://settings.sensorybridge.rocks){: .btn .btn-blue }
 
+(Come back to that settings page after this tutorial and have a look around at some neat options it has!)
+
 {: .highlight }
 > *4-WIRE LED STRIP USERS:*
 > 
 > On the settings page, in the LEDS section, change the "TYPE" from "NEOPIXEL" (the default) to "DOTSTAR (4-WIRE)". This will make your LED strip finally light up normally! Your extra effort won't go unnoticed, as 4-wire strips have higher frame rate capabilities than others!
 
-(Come back to that settings page after this tutorial and have a look around at some neat options it has!)
-
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/settings_page_pic.png?raw=true)
 
 # INITIAL CALIBRATION
 
-Sensory Bridge has the ability to ignore ambient noise in the room, such as computer fans, washing machines, etc.
+Sensory Bridge has the ability to ignore consistent ambient noise in the room, such as computer fans, washing machines, etc..
+
 To set this up, first make sure that no music is already playing in the room - only the ambient noise you want to remove. (No talking either) Then, press the NOISE button to start the calibration. This will only take about 3 seconds, and you'll see a pink-colored graph of the captured noise on the LED strip during the process.
 
 Did it work? Your LED strip should now stay completely off when you're not making noise or playing music, try it out! You can repeat the calibration at any time, which I would recommend doing if your Sensory Bridge is moved to another room or when ambient conditions change.
