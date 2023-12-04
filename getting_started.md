@@ -4,8 +4,6 @@ layout: page
 has_toc: true
 ---
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
-
 # **GETTING STARTED with SENSORY BRIDGE**
 
 Hello! First off - thank you for supporting Lixie Labs. I began designing this product in March 2022, and a lot of love has gone into it up to this moment.
@@ -17,7 +15,7 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 >
 > [Start The Troubleshooter](https://sensorybridge.rocks/troubleshooting/){: .btn .btn-blue }
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/anatomy.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
 
 # SOME ASSEMBLY REQUIRED
 
@@ -68,6 +66,8 @@ Turn the three knobs all the way up to the following position:
 If you have a 4-wire LED strip, it won't work until the next section of the tutorial!
 
 Do you see your LED strip lighting up? Does it flash when you snap your fingers? If not, something could be wrong. Unplug your Sensory Bridge, double-check your wiring, or try the Sensory Bridge Troubleshooting Guide
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/anatomy.jpg?raw=true)
 
 # SETTINGS CONFIGURATION
 
