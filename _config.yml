@@ -21,5 +21,5 @@ callouts:
     color: blue
 
 aux_links:
-  "More From Lixie Labs":
+  "<link-out>More From Lixie Labs</link-out>":
     - "https://github.com/connornishijima"
