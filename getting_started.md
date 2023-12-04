@@ -22,6 +22,7 @@ If you also ordered a Mini Mast, you'll need to remove the two small screws from
 
 # LED WIRING
 
+{: .warning }
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
 
 Before powering your Sensory Bridge, you'll need to install your own LED strip if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
