@@ -11,7 +11,7 @@ You're almost ready to go! Next, plug a [5V/2A USB-C supply](https://www.amazon.
 
 **Turn the three knobs all the way up to the following position:**
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/2.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/product.png?raw=true)
 
 {: .highlight }
 If you have a 4-wire LED strip, it won't work until the next section of the tutorial!
