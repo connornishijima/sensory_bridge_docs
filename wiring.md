@@ -24,14 +24,14 @@ Here is the typical wiring color scheme of a 4-wire DotStar strip:
 <wire-yellow>CLOCK</wire-yellow>
 <wire-black>GND</wire-black>
 
-It's likely that your strip came with a connector on the end. This must be cut off, and the wires stripped back by ~4mm for the best results.
+It's likely that your strip came with a connector on the end - this must be cut off, and the wires stripped back by ~4mm for the best results.
 
 {: .warning }
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/wire_insert.png?raw=true)
 
-Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself.
+Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself. If you're using a 4-wire strip, be sure to hook up all four wires correctly!
 
 {: .highlight }
 Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, individually covered with electrical tape, or doubled-up into the corresponding terminals if you plan to power the LEDs using only the Sensory Bridge.
