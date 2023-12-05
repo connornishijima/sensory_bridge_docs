@@ -1,5 +1,5 @@
 ---
-title: Try It Out!
+title: First Tests
 layout: page
 parent: Getting Started
 nav_order: 6
