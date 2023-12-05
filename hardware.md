@@ -5,7 +5,7 @@ parent: Open Source
 nav_order: 2
 ---
 
-# SENSORY BRIDGE is Open Source Hardware
+# SENSORY BRIDGE has Open Source Hardware
 
 Want to print your parts in other colors? Make it taller? Add more knobs? Sensory Bridge is Open Source Hardware under the [CERN-OHL-W-2.0 License](https://spdx.org/licenses/CERN-OHL-W-2.0.html), and anything you need to know about its internal parts is found below.
 
