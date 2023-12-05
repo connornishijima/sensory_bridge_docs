@@ -18,7 +18,7 @@ callouts:
     color: yellow
   info:
     title: JUST SO YOU KNOW
-    color: blue
+    color: purple
 
 aux_links:
   "<link-out>More From Lixie Labs</link-out>":
