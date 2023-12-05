@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+<iframe width="736" height="452" src="https://www.youtube.com/embed/ALHj-XW7_6Y?si=NDxwEP0wKecF-Jry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # SENSORY BRIDGE is **DIFFERENT**
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
