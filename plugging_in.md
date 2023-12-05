@@ -2,7 +2,7 @@
 title: Plugging In
 layout: page
 parent: Getting Started
-nav_order: 2
+nav_order: 3
 ---
 
 # PLUGGING IN FOR THE FIRST TIME
