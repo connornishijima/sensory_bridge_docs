@@ -2,6 +2,7 @@
 title: Mast Assembly
 layout: page
 parent: Getting Started
+nav_order: 1
 ---
 
 # SOME ASSEMBLY REQUIRED
