@@ -56,7 +56,7 @@ Sensory Bridge was certified by the Open Source Hardware Association (OSHWA) wit
 
 ## Printed Circuit Board
 
-Sensory Bridge and its accessory circuit boards are designed in EAGLE.
+Sensory Bridge and its accessory circuit boards are designed in EAGLE. There's a free version of EAGLE [that you can download here](https://www.autodesk.in/products/eagle/free-download) which should allow full editing of Sensory Bridge files within its board size and layer limitations.
 
 ### Board/Schematic Files:
 
