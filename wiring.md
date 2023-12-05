@@ -17,7 +17,7 @@ Before powering your Sensory Bridge, you'll need to install your own [WS2812B-co
 
 **Addressable LED strips like this have both an input side and an output side.** Be sure that you're wiring the input side to your Sensory Bridge, otherwise the LEDs won't function properly!
 
-If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK" terminal as well, and reconfigure your device in an upcoming step.
+*If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK" screw terminal as well, and reconfigure your device in an upcoming step.*
 
 **Here is the typical wiring color scheme of a 4-wire DotStar strip:**
 
