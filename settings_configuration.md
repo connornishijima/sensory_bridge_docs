@@ -7,7 +7,7 @@ nav_order: 4
  
 # SETTINGS CONFIGURATION
 
-To change the settings on your device, visit settings.sensorybridge.rocks on a computer, with your Sensory Bridge plugged into your computer. You'll be asked to choose your device from a list, and in most cases you'll only see one option.
+To change the settings on your device, visit [settings.sensorybridge.rocks](https://settings.sensorybridge.rocks) on a computer with your Sensory Bridge plugged in. You'll be asked to choose your device from a list, and in most cases you'll only see one option.
 
 [Click to Configure Your Sensory Bridge](https://settings.sensorybridge.rocks){: .btn .btn-blue }
 
