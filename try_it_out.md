@@ -15,6 +15,8 @@ Put some awesome music on. Play with the <sb-button>MODE BUTTON</sb-button> to t
 
 For the best results, place your Sensory Bridge as close to the music source as possible.
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/5.jpg?raw=true)
+
 DID YOU KNOW? Holding down the <sb-button>MODE BUTTON</sb-button> for longer than 0.5 seconds will toggle a mirrored version of the current light show!
 
 Below are some YouTube links to songs that I enjoy on Sensory Bridge:
@@ -28,6 +30,3 @@ YOUTUBE LINKS HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 [Sweet Spot and Chroma](https://connornishijima.github.io/sensory_bridge_docs/sweet_spot_and_chroma.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
-
-
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/5.jpg?raw=true)
