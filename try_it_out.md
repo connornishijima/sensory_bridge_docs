@@ -20,8 +20,13 @@ For the best results, place your Sensory Bridge as close to the music source as 
 DID YOU KNOW? Holding down the <sb-button>MODE BUTTON</sb-button> for longer than 0.5 seconds will toggle a mirrored version of the current light show!
 
 Below are some YouTube links to songs that I enjoy on Sensory Bridge:
-     
-YOUTUBE LINKS HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[![STREET BY STREET](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/street_by_street.jpg?raw=true)](https://www.youtube.com/watch?v=trJYa3U8nCU)
+[![TRUSTFUL_HANDS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/trustful_hands.jpg?raw=true)](https://www.youtube.com/watch?v=0EICjxSjveM)
+[![ON THE RUN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/on_the_run.jpg?raw=true)](https://www.youtube.com/watch?v=RWJjWcHplGc)
+[![GET YOU](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/get_you.jpg?raw=true)](https://www.youtube.com/watch?v=lk1oRJr7TGo)
+[![PLANTASIA](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/plantasia.jpg?raw=true)](https://www.youtube.com/watch?v=Hz8LxBKy5SI)
+[![NINA](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/nina.jpg?raw=true)](https://www.youtube.com/watch?v=OXu3x7s3SVE)
 
 -------------------------------------------------------
 
