@@ -23,15 +23,15 @@ If you also ordered a Mini Mast, you'll need to remove the two small screws from
 
 <img class="small-img" src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast_insert.png?raw=true"/>
 
-# LED WIRING
+# WIRING UP YOUR LIGHTS
 
-Before powering your Sensory Bridge, you'll need to install your own LED strip if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
+Before powering your Sensory Bridge, you'll need to install your own WS2812B-compatible LED strip if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
 
 <wire-red>5V</wire-red>
 <wire-white>DATA</wire-white>
 <wire-green>GND</wire-green>
 
-Adressable LED strips like this have both an input side and an output side. Be sure that you're wiring the input side to your Sensory Bridge, otherwise the LEDs won't function properly!
+Addressable LED strips like this have both an input side and an output side. Be sure that you're wiring the input side to your Sensory Bridge, otherwise the LEDs won't function properly!
 
 If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK" terminal as well, and reconfigure your device in an upcoming step. Here is the typical wiring color scheme of a DotStar strip:
 
