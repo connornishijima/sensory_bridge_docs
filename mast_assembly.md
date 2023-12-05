@@ -1,6 +1,7 @@
 ---
 title: Mast Assembly
 layout: page
+parent: Getting Started
 ---
 
 # SOME ASSEMBLY REQUIRED
