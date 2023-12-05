@@ -19,3 +19,11 @@ To change the settings on your device, visit settings.sensorybridge.rocks on a c
 > On the settings page, in the LEDS section, change the "TYPE" from "NEOPIXEL" (the default) to "DOTSTAR (4-WIRE)". This will make your LED strip finally light up normally! Your extra effort won't go unnoticed, as 4-wire strips have higher frame rate capabilities than others!
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/settings_page_pic.png?raw=true)
+
+-------------------------------------------------------
+
+***Now let's get your Sensory Bridge calibrated to your room...***
+
+[Initial Calibration](https://connornishijima.github.io/sensory_bridge_docs/initial_calibration.html){: .btn .btn-green .text-right }
+
+-------------------------------------------------------
