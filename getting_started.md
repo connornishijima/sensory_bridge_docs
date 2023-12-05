@@ -16,8 +16,6 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 >
 > [Start The Troubleshooter](https://sensorybridge.rocks/troubleshooting/){: .btn .btn-blue }
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
-
 -------------------------------------------------------
 
 <right-align>
@@ -29,3 +27,5 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 </right-align>
 
 -------------------------------------------------------
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
