@@ -26,7 +26,7 @@ Before powering your Sensory Bridge, you'll need to install your own [WS2812B-co
 <wire-yellow>CLOCK</wire-yellow>
 <wire-black>GND</wire-black>
 
-It's likely that your strip came with a connector on the end - this must be cut off, and the wires stripped back by ~4mm for the best results.
+It's likely that your strip came with a connector on the end - this must be cut off, and the wires [stripped back by ~4mm for the best results](https://www.amazon.com/Self-Adjusting-Stripper-Klein-Tools-11061/dp/B00CXKOEQ6/ref=sr_1_5?crid=UIAP8SCLPER3&keywords=wire+strippers&qid=1662390513&sprefix=wire+strippers%2Caps%2C141&sr=8-5).
 
 {: .warning }
 While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
