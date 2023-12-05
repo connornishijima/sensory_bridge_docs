@@ -1,3 +1,10 @@
+---
+title: Settings Configuration
+layout: page
+parent: Getting Started
+nav_order: 2
+---
+
 # PLUGGING IN FOR THE FIRST TIME
 
 You're almost ready to go! Next, plug a 5V/2A USB-C cable into the port at the rear of the unit. If all is well, you should see the "Sweet Spot" LEDs light up.
