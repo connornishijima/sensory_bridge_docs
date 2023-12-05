@@ -21,4 +21,13 @@ Below are some YouTube links to songs that I enjoy on Sensory Bridge:
      
 YOUTUBE LINKS HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+-------------------------------------------------------
+
+***Lastly, let's discuss the remaining knobs and lights...***
+
+[Sweet Spot and Chroma](https://connornishijima.github.io/sensory_bridge_docs/sweet_spot_and_chroma.html){: .btn .btn-green .text-right }
+
+-------------------------------------------------------
+
+
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/5.jpg?raw=true)
