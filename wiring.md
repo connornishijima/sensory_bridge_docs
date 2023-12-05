@@ -2,6 +2,7 @@
 title: Wiring
 layout: page
 parent: Getting Started
+nav_order: 2
 ---
 
 # WIRING UP YOUR LIGHTS
