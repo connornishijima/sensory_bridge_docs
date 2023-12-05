@@ -4,7 +4,7 @@ layout: page
 parent: Getting Started
 nav_order: 4
 ---
-
+ 
 # SETTINGS CONFIGURATION
 
 To change the settings on your device, visit settings.sensorybridge.rocks on a computer, with your Sensory Bridge plugged into your computer. You'll be asked to choose your device from a list, and in most cases you'll only see one option.
