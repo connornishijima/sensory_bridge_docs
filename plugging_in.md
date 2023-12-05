@@ -7,7 +7,7 @@ nav_order: 3
 
 # PLUGGING IN FOR THE FIRST TIME
 
-You're almost ready to go! Next, plug a 5V/2A USB-C cable into the port at the rear of the unit. If all is well, you should see the "Sweet Spot" LEDs light up.
+You're almost ready to go! Next, plug a [5V/2A USB-C supply](https://www.amazon.com/Certified-Charger-FONKEN-Universal-Compatible/dp/B07DF782WQ/ref=sr_1_4?crid=1WJDP9XHVR3QC&keywords=2a+usb+adapter&qid=1662388344&sprefix=2a+usb+adapter%2Caps%2C131&sr=8-4) into the port at the rear of the Sensory Bridge. If all is well, you should at-least see the "Sweet Spot" LEDs light up.
 
 **Turn the three knobs all the way up to the following position:**
 
