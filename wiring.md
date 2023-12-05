@@ -7,7 +7,9 @@ nav_order: 2
 
 # WIRING UP YOUR LIGHTS
 
-Before powering your Sensory Bridge, you'll need to install your own [WS2812B-compatible LED strip](https://www.amazon.com/WS2812B-Individual-Addressable-144Pixels-Non-Waterproof/dp/B09PBHJG6G/ref=sr_1_5?crid=3KPXUN3NEV06Q&keywords=ws2812b%2Bled%2Bstrip%2B144&qid=1662389723&sprefix=ws2812b%2Bled%2Bstrip%2B144%2Caps%2C128&sr=8-5&th=1) if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
+Before powering your Sensory Bridge, you'll need to install your own [WS2812B-compatible LED strip](https://www.amazon.com/WS2812B-Individual-Addressable-144Pixels-Non-Waterproof/dp/B09PBHJG6G/ref=sr_1_5?crid=3KPXUN3NEV06Q&keywords=ws2812b%2Bled%2Bstrip%2B144&qid=1662389723&sprefix=ws2812b%2Bled%2Bstrip%2B144%2Caps%2C128&sr=8-5&th=1) if you aren't using a Mini Mast.
+
+**All WS2812B-compatible LED strips have three wires in these colors:**
 
 <wire-red>5V</wire-red>
 <wire-white>DATA</wire-white>
@@ -17,7 +19,7 @@ Before powering your Sensory Bridge, you'll need to install your own [WS2812B-co
 
 If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK" terminal as well, and reconfigure your device in an upcoming step.
 
-Here is the typical wiring color scheme of a 4-wire DotStar strip:
+**Here is the typical wiring color scheme of a 4-wire DotStar strip:**
 
 <wire-red>5V</wire-red>
 <wire-green>DATA</wire-green>
