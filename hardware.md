@@ -11,7 +11,7 @@ Sensory Bridge is printed in Galaxy Black PLA by Prusa Research, at a 0.2mm laye
 
 ---------------------------------
 
-## Sensory Bridge
+## Sensory Bridge Printed Parts:
 
 ### Shell
 
@@ -19,7 +19,7 @@ Sensory Bridge is printed in Galaxy Black PLA by Prusa Research, at a 0.2mm laye
 
 ---------------------------------
 
-## MiniMast
+## MiniMast Printed Parts:
 
 ### Brace
 
