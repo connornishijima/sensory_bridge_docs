@@ -9,6 +9,8 @@ nav_order: 7
 
 Lastly, let's discuss the "Sweet Spot" indicator, and what the <sb-knob>CHROMA KNOB</sb-knob> does.
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/anatomy.jpg?raw=true)
+
 "Sweet Spot" indicates if your audio is too quiet (too close to the ambient sound of the room) or too loud (nearing distortion) when playing. The Green LED in the center should always be lit whenever sound is playing.
 
 {: .info }
