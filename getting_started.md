@@ -2,7 +2,6 @@
 title: Getting Started
 layout: page
 has_children: true
-has_toc: true
 ---
 
 # **GETTING STARTED with SENSORY BRIDGE**
@@ -15,6 +14,15 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 > If something about your Sensory Bridge is not functioning properly, there is an interactive Troubleshooting Guide that you can follow to try and fix things!
 >
 > [Start The Troubleshooter](https://sensorybridge.rocks/troubleshooting/){: .btn .btn-blue }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
 
