@@ -19,6 +19,6 @@ Did it work? Your LED strip should now stay nearly off when you're not making no
 
 ***It's time to play with your Sensory Bridge!***
 
-[Try It Out](https://connornishijima.github.io/sensory_bridge_docs/try_it_out.html){: .btn .btn-green .text-right }
+[Try It Out](https://connornishijima.github.io/sensory_bridge_docs/first_tests.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
