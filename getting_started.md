@@ -9,6 +9,8 @@ has_toc: false
 
 Hello! First off - thank you for supporting Lixie Labs. I began designing this product in March 2022, and a lot of love has gone into it up to this moment.
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
+
 Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 
 {: .info }
@@ -25,5 +27,3 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 -------------------------------------------------------
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/anatomy.jpg?raw=true)
-
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
