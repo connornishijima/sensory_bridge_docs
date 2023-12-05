@@ -36,6 +36,9 @@ Sensory Bridge uses M3 screws and nuts to stay together:
 | **Sensory Bridge**   | 4          | 4                 | 0                |
 | **Mini Mast**        | 2          | 2                 | 2                |
 
+{: .info }
+The M3 nuts friction-fit with their plastic counterparts inside Sensory Bridge, and can be nearly impossible to remove without re-printing the whole shell. Make sure to buy some spares for experimentation.
+
 -------------------------------------------------
 
 ## Rubber
