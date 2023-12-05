@@ -2,6 +2,7 @@
 title: Getting Started
 layout: page
 has_children: true
+has_toc: false
 ---
 
 # **GETTING STARTED with SENSORY BRIDGE**
