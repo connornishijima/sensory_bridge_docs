@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<iframe width="736" height="412" src="https://www.youtube.com/embed/ALHj-XW7_6Y?si=NDxwEP0wKecF-Jry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="736" height="415" src="https://www.youtube.com/embed/ALHj-XW7_6Y?si=NDxwEP0wKecF-Jry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # SENSORY BRIDGE is **DIFFERENT**
 
