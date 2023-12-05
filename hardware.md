@@ -5,7 +5,7 @@ parent: Open Source
 nav_order: 2
 ---
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/8.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/15.jpg?raw=true)
 
 # Open Source Hardware
 
