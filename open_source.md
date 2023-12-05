@@ -11,5 +11,5 @@ Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpos
 
 ![OSHW FACTS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/oshw_facts.svg?raw=true)
 
-[HARDWARE FILES](HARDWARE){: .btn .btn-green }
-[SOFTWARE DOCS](SOFTWARE){: .btn .btn-blue }
+[HARDWARE FILES](https://connornishijima.github.io/sensory_bridge_docs/hardware.html){: .btn .btn-green }
+[SOFTWARE DOCS](https://connornishijima.github.io/sensory_bridge_docs/software.html){: .btn .btn-blue }
