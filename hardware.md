@@ -47,6 +47,9 @@ Four self-adhesive rubber feet in a 20mm\*20mm square size give it grip:
 -------------------------------------------------
 
 ## OSHWA UID
+
+Sensory Bridge was certified by the Open Source Hardware Association (OSHWA) with UID US002125 on September 15, 2022.
+
 [US002125](https://certification.oshwa.org/us002125.html){: .btn .btn-blue }
 
 -------------------------------------------------
