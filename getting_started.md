@@ -24,4 +24,6 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 
 -------------------------------------------------------
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/anatomy.jpg?raw=true)
+
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/7.jpg?raw=true)
