@@ -2,6 +2,7 @@
 title: Initial Calibration
 layout: page
 parent: Getting Started
+nav_order: 5
 ---
 
 # INITIAL CALIBRATION
