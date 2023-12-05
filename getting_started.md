@@ -21,6 +21,6 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 
 ***First, let's begin by building your lighting setup...***
 
-[Mast Assembly](https://connornishijima.github.io/sensory_bridge_docs/mast_assembly.html){: .btn .btn-blue }
+[Mast Assembly](https://connornishijima.github.io/sensory_bridge_docs/mast_assembly.html){: .btn .btn-green }
 
 -------------------------------------------------------
