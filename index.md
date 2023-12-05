@@ -19,13 +19,11 @@ It has to be seen to be believed, *which the video demos below can help with:*
 [![PLANTASIA](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/plantasia.jpg?raw=true)](https://www.youtube.com/watch?v=Hz8LxBKy5SI)
 [![NINA](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/nina.jpg?raw=true)](https://www.youtube.com/watch?v=OXu3x7s3SVE)
 
-# 
-
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/2.jpg?raw=true)
-
 # SENSORY BRIDGE is **SIMPLE**
 
 **Easy controls provide quick access to changing the brightness, color, and smoothing of the display!**
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/2.jpg?raw=true)
 
 # **KNOBS**
 
