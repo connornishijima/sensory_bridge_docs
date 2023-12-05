@@ -1,5 +1,5 @@
 ---
-title: Settings Configuration
+title: Plugging In
 layout: page
 parent: Getting Started
 nav_order: 2
