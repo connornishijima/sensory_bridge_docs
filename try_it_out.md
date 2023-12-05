@@ -1,5 +1,5 @@
 ---
-title: First Tests
+title: Try It Out!
 layout: page
 parent: Getting Started
 nav_order: 6
@@ -9,7 +9,7 @@ nav_order: 6
 
 You next move should be to dial back that <sb-knob>MOOD KNOB</sb-knob> to 50% or so. This is the range which produces the nicest shows with the most music types. 100% "mood" is great for home raves, 10% is great for extremely mellow shows.
 
-Now, try it out!
+<div style="text-align:center;font-weight:bold;font-size:36px;">Now, try it out!</div>
 
 Put some awesome music on. Play with the <sb-button>MODE BUTTON</sb-button> to try different versions of the show, and adjusting the <sb-knob>MOOD KNOB</sb-knob> to your liking. Turn down the <sb-knob>PHOTONS KNOB</sb-knob> if you find the show to be too bright for you.
 
