@@ -40,5 +40,5 @@ Four self-adhesive rubber feet in a 20mm\*20mm square size give it grip:
 
 Sensory Bridge and its accessories are designed in EAGLE, and the board/schematic files are available below:
 
-[SENSORY BRIDGE](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-blue }
-[MINI MAST](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-blue }
+[SENSORY BRIDGE](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
+[MINI MAST](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
