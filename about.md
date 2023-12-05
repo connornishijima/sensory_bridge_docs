@@ -1,5 +1,5 @@
 ---
-title: Test
+title: About
 layout: minimal
 ---
 
