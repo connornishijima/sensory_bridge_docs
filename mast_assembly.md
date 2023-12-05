@@ -11,6 +11,10 @@ If you also ordered a Mini Mast, you'll need to remove the two small screws from
 
 <img class="small-img" src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast_insert.png?raw=true"/>
 
+Take care that the Mini Mast is inserted correctly into the socket, and no loose metal pins are exposed. Your finished assembly should look like this:
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast_insert_picture.jpg?raw=true)
+
 -------------------------------------------------------
 
 ***If you aren't using a Mini Mast, you can now wire up your own LED strip...***
