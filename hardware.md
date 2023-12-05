@@ -34,6 +34,8 @@ Sensory Bridge uses M3 screws and nuts to stay together:
 
 Four self-adhesive rubber feet in a 20mm\*20mm square size give it grip:
 
+[AMAZON LINK](https://www.amazon.com/Black-Rubber-Feet-Stick-Bumper/dp/B06XPFDQBH){: .btn .btn-blue }
+
 ## Printed Circuit Board
 
 Sensory Bridge and its accessories are designed in EAGLE, and the board/schematic files are available below:
