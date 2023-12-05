@@ -4,8 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-https://github.com/connornishijima/SensoryBridge/assets/5051485/211737f4-0c69-49b0-99c4-2fa3d6a7a65e
-
 # SENSORY BRIDGE is **DIFFERENT**
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
