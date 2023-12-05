@@ -17,3 +17,11 @@ You're almost ready to go! Next, plug a 5V/2A USB-C cable into the port at the r
 If you have a 4-wire LED strip, it won't work until the next section of the tutorial!
 
 Do you see your LED strip lighting up? Does it flash when you snap your fingers? If not, something could be wrong. Unplug your Sensory Bridge, double-check your wiring, or try the Sensory Bridge Troubleshooting Guide.
+
+-------------------------------------------------------
+
+***Now it's time to configure the Sensory Bridge...***
+
+[Settings Configuration](https://connornishijima.github.io/sensory_bridge_docs/settings_configuration.html){: .btn .btn-green .text-right }
+
+-------------------------------------------------------
