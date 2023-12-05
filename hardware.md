@@ -9,6 +9,9 @@ nav_order: 2
 
 Want to print your parts in other colors? Make it taller? Add more knobs? Sensory Bridge is Open Source Hardware under the [CERN-OHL-W-2.0 License](https://spdx.org/licenses/CERN-OHL-W-2.0.html), and anything you need to know about its internal parts is found below.
 
+## OSHWA UID
+[US002125](https://certification.oshwa.org/us002125.html){: .btn .btn-blue }
+
 ## Plastic
 
 Sensory Bridge is printed in [Galaxy Black PLA by Prusa Research](https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/), at a 0.2mm layer height.
