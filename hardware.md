@@ -5,7 +5,7 @@ parent: Open Source
 nav_order: 2
 ---
 
-# 3D Printing
+# Plastic
 
 Sensory Bridge is printed in Galaxy Black PLA by Prusa Research, at a 0.2mm layer height.
 
@@ -13,7 +13,7 @@ https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Prin
 
 https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl
 
-# Metals
+# Nuts and Bolts
 
 Sensory Bridge uses M3 screws and nuts to stay together:
 
