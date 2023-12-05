@@ -41,7 +41,9 @@ Four self-adhesive rubber feet in a 20mm\*20mm square size give it grip:
 
 ## Printed Circuit Board
 
-Sensory Bridge and its accessories are designed in EAGLE, and the board/schematic files are available below:
+Sensory Bridge and its accessory circuit boards are designed in EAGLE.
+
+### Board/Schematic Files:
 
 [SENSORY BRIDGE](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
 [MINI MAST](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
