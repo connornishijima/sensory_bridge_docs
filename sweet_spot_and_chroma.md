@@ -2,6 +2,7 @@
 title: Sweet Spot & Chroma
 layout: page
 parent: Getting Started
+nav_order: 7
 ---
 
 # SWEET SPOT and CHROMA
