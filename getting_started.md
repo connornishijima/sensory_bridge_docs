@@ -25,5 +25,3 @@ Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 [Mast Assembly](https://connornishijima.github.io/sensory_bridge_docs/mast_assembly.html){: .btn .btn-green .text-right }
 
 -------------------------------------------------------
-
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/anatomy.jpg?raw=true)
