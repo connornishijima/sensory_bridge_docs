@@ -9,9 +9,17 @@ nav_order: 2
 
 Sensory Bridge is printed in Galaxy Black PLA by Prusa Research, at a 0.2mm layer height.
 
-https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/SENSORY_BRIDGE_BASE.stl
+** SENSORY BRIDGE
 
-https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl
+*** SHELL
+
+[DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/SENSORY_BRIDGE_BASE.stl){: .btn .btn-green }
+
+** MINI MAST
+
+*** BRACE
+
+[DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }
 
 # Nuts and Bolts
 
