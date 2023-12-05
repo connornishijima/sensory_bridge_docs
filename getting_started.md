@@ -25,9 +25,6 @@ If you also ordered a Mini Mast, you'll need to remove the two small screws from
 
 # LED WIRING
 
-{: .warning }
-While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
-
 Before powering your Sensory Bridge, you'll need to install your own LED strip if you aren't using a Mini Mast. All WS2812B-compatible LED strips have three wires in these colors:
 
 <wire-red>5V</wire-red>
@@ -44,6 +41,9 @@ If you are using a 4-wire "DotStar" style LED strip, you'll need to use the "CLK
 <wire-black>GND</wire-black>
 
 It's likely that your strip came with a connector on the end. This must be cut off, and the wires stripped back by ~4mm for the best results.
+
+{: .warning }
+While the advice in this section is likely correct in 99% of cases, ALWAYS double check the labelling and color scheme of the wires in your own LED strip to be sure that nothing will be damaged.
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/wire_insert.png?raw=true)
 
