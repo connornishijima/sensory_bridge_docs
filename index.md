@@ -39,8 +39,6 @@ Custom color or automated color based on the music's notation? Choose with the *
 
 This knob is special. **MOOD** controls *how quickly your LEDs will react to changes in pitch and volume!* A low "mood" will be very soft and gradual, only showing things like the underlying chord progression of a song, whereas a *high* "mood" will be extremely reactive, and can be a little too flashy for some people's liking. Luckily, you can blend the value to anywhere between those two extremes whenever you want to find what look you prefer!
 
-# 
-
 ![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
 # **BUTTONS**
@@ -79,23 +77,17 @@ Same as above, but represented with a dot instead of a bar, staying a constant b
 
 ## ***MORE MODES WILL BE RELEASED IN FUTURE FIRMWARE UPDATES!***
 
-# 
-
 ![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
 
 # **SWEET SPOT**
 
 At the front of the base unit are three LEDs, which indicate if your music is playing too quietly for the auto-ranger to account for, or if it's too loud! (Close to clipping!)
 
-# 
-
 ![SENSORY BRIDGE IS FLEXIBLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/12.jpg?raw=true)
 
 # SENSORY BRIDGE is **FLEXIBLE**
 
 While compatible with any WS2812B or APA102/SK9822-based LED strip (just use the screw terminals at the back!) there's also the option of using the **"Mini Mast"**, a dense strip of 128 1.5mm RGB LEDs on a 260mm long PCB! It just plugs directly into the Sensory Bridge accessory port, making for a very portable solution!
-
-# 
 
 ![SENSORY BRIDGE IS OPEN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/1.jpg?raw=true)
 
@@ -113,8 +105,6 @@ Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpos
 
 ![OSHW FACTS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/oshw_facts.svg?raw=true)
 
-# 
-
 ![WHATS INCLUDED](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/8.jpg?raw=true)
 
 # WHAT'S **INCLUDED:**
@@ -131,8 +121,6 @@ To save on redundant materials you might already own, **your Sensory Bridge does
 - **USB-C Cable** ([AMAZON LINK](https://www.amazon.com/JSAUX-Charger-Braided-Compatible-Samsung/dp/B076FPGWNZ/ref=sr_1_9?crid=2YG0J3B874G73&keywords=usb-c+cable&qid=1662388265&sprefix=usb-c+cable%2Caps%2C137&sr=8-9))
 - **5V, 2A USB Power Adapter** ([AMAZON LINK](https://www.amazon.com/Certified-Charger-FONKEN-Universal-Compatible/dp/B07DF782WQ/ref=sr_1_4?crid=1WJDP9XHVR3QC&keywords=2a+usb+adapter&qid=1662388344&sprefix=2a+usb+adapter%2Caps%2C131&sr=8-4))
 - **Wire Stripper** - If you'd like to use your Sensory Bridge with your own LED strip, you'll either need a wire stripper or strong teeth to get it hooked up neatly! These clamp-style strippers make that process a breeze, so please don't use your teeth: ([AMAZON LINK](https://www.amazon.com/Self-Adjusting-Stripper-Klein-Tools-11061/dp/B00CXKOEQ6/ref=sr_1_5?crid=UIAP8SCLPER3&keywords=wire+strippers&qid=1662390513&sprefix=wire+strippers%2Caps%2C141&sr=8-5))
-
-# 
 
 ![FUTURE PLANS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/0.jpg?raw=true)
 
