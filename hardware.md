@@ -11,11 +11,6 @@ Want to print your parts in other colors? Make it taller? Add more knobs? Sensor
 
 -------------------------------------------------
 
-## OSHWA UID
-[US002125](https://certification.oshwa.org/us002125.html){: .btn .btn-blue }
-
--------------------------------------------------
-
 ## Plastic
 
 Sensory Bridge is printed in [Galaxy Black PLA by Prusa Research](https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/), at a 0.2mm layer height.
@@ -46,6 +41,11 @@ Sensory Bridge uses M3 screws and nuts to stay together:
 Four self-adhesive rubber feet in a 20mm\*20mm square size give it grip:
 
 [AMAZON LINK](https://www.amazon.com/Black-Rubber-Feet-Stick-Bumper/dp/B06XPFDQBH){: .btn .btn-blue }
+
+-------------------------------------------------
+
+## OSHWA UID
+[US002125](https://certification.oshwa.org/us002125.html){: .btn .btn-blue }
 
 -------------------------------------------------
 
