@@ -2,6 +2,7 @@
 title: Settings Configuration
 layout: page
 parent: Getting Started
+nav_order: 4
 ---
 
 # SETTINGS CONFIGURATION
