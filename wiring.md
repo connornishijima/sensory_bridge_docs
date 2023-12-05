@@ -31,7 +31,7 @@ While the advice in this section is likely correct in 99% of cases, ALWAYS doubl
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/wire_insert.png?raw=true)
 
-Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself. If you're using a 4-wire strip, be sure to hook up all four wires correctly!
+Once the wires are stripped, insert them into the LED terminal as shown, tightening the screws down on the wires as you go. Be sure that none of the bare wire is exposed, so that it cannot short-circuit with itself. (If you're using a 4-wire strip, be sure to hook up all four wires correctly.)
 
 {: .highlight }
 Some strips have duplicate wires for 5V and GND. These can be wired to a separate power supply, individually covered with electrical tape, or doubled-up into the corresponding terminals if you plan to power the LEDs using only the Sensory Bridge.
