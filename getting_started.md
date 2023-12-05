@@ -14,7 +14,7 @@ has_toc: false
 Sensory Bridge is quite easy to set up, so let's go over how to get it working.
 
 {: .info }
-> If something about your Sensory Bridge is not functioning properly, there is an interactive Troubleshooting Guide that you can follow to try and fix things!
+> If something about your Sensory Bridge is not functioning properly, there's an interactive Troubleshooting Guide you can follow to try and fix things!
 >
 > [Start The Troubleshooter](https://sensorybridge.rocks/troubleshooting/){: .btn .btn-blue }
 
