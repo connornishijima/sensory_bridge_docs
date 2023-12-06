@@ -17,7 +17,7 @@ Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpos
 
 In exchange, please support my continued work on Open Hardware products by purchasing from my store or donating through my GitHub Sponsors program. I create these products with great passion and obsession to make them fun and modular experiences, and your contibutions have kept me afloat through thick and thin.
 
-*\- Connor*
+***\- Connor***
 
 [LIXIE LABS STORE](https://lectronz.com/stores/lixielabs){: .btn .btn-green }
 [SPONSOR LIXIE LABS](https://github.com/sponsors/connornishijima){: .btn .btn-blue }
