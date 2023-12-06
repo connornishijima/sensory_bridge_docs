@@ -6,7 +6,7 @@ nav_order: 99
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/purchase.jpg?raw=true)
 
-# Purchase Sensory Bridge and MiniMast
+# Purchase SENSORY BRIDGE and MiniMast
 
 Both Sensory Bridge and MiniMast are available for sale on the Lixie Labs store. (hosted on lectronz.com)
 
