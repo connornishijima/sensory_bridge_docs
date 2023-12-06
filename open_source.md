@@ -20,7 +20,6 @@ In exchange, please support my continued work on Open Hardware products by purch
 *\- Connor*
 
 [LIXIE LABS STORE](https://lectronz.com/stores/lixielabs){: .btn .btn-green }
-
 [SPONSOR LIXIE LABS](https://github.com/sponsors/connornishijima){: .btn .btn-blue }
 
 ## LICENSES
