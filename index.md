@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+<img class="small-img" src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/product.png?raw=true">
+
 <t1>LET YOUR EYES ENJOY MUSIC TOO</t1>
 
 <t2>Sensory Bridge is built from the ground up as an open, powerful bridge between sight and sound.</t2>
