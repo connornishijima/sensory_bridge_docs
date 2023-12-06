@@ -24,6 +24,11 @@ In exchange, please support my continued work on Open Hardware products by purch
 
 # LICENSES
 
+The Sensory Bridge Firmware uses the following Arduino libraries:
+
+- [FastLED by Daniel Garcia](https://github.com/FastLED/FastLED)
+- [FixedPoints by Pharap](https://github.com/Pharap/FixedPointsArduino)
+
 ![OSHW FACTS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/oshw_facts.svg?raw=true)
 
 [HARDWARE FILES](https://connornishijima.github.io/sensory_bridge_docs/hardware.html){: .btn .btn-green }
