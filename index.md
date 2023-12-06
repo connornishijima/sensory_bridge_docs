@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-<h1-title>LET YOUR EYES ENJOY MUSIC TOO</h1-title>
-
-<h2-title>Sensory Bridge is built from the ground up as an open, powerful bridge between sight and sound.</h2-title>
+<h1title>LET YOUR EYES ENJOY MUSIC TOO</h1title>
+<br>
+<h2title>Sensory Bridge is built from the ground up as an open, powerful bridge between sight and sound.</h2title>
 
 [Learn More](LEARNMORE){: .btn btn-green }
 [Configure Your Device](https://settings.sensorybridge.rocks){: .btn btn-blue }
