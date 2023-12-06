@@ -22,7 +22,7 @@ In exchange, please support my continued work on Open Hardware products by purch
 [LIXIE LABS STORE](https://lectronz.com/stores/lixielabs){: .btn .btn-green }
 [SPONSOR LIXIE LABS](https://github.com/sponsors/connornishijima){: .btn .btn-blue }
 
-## LICENSES
+# LICENSES
 
 ![OSHW FACTS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/oshw_facts.svg?raw=true)
 
