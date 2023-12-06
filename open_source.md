@@ -11,7 +11,7 @@ Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpos
 
 ## NOTE FROM THE CREATOR
 
-### Anything about your Sensory Bridge can be modified, replaced or fixed with the right tools, which Lixie Labs believes is your right as a consumer.
+**Anything about your Sensory Bridge can be modified, replaced or fixed with the right tools, which Lixie Labs believes is your right as a consumer.**
 
 In exchange, please support my continued work on Open Hardware products by purchasing from my store or donating through my GitHub Sponsors program. I create these products with great passion and obsession to make them fun and modular experiences, and your contibutions have kept me afloat through thick and thin.
 
