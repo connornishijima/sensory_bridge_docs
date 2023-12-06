@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <t1>LET YOUR EYES ENJOY MUSIC TOO</t1>
-<br>
+
 <t2>Sensory Bridge is built from the ground up as an open, powerful bridge between sight and sound.</t2>
 
 [Learn More](LEARNMORE){: .btn btn-green }
