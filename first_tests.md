@@ -17,7 +17,8 @@ For the best results, place your Sensory Bridge as close to the music source as 
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/5.jpg?raw=true)
 
-DID YOU KNOW? Holding down the <sb-button>MODE BUTTON</sb-button> for longer than 0.5 seconds will toggle a mirrored version of the current light show!
+{: .info }
+Holding down the <sb-button>MODE BUTTON</sb-button> for longer than 0.5 seconds will toggle a mirrored version of the current light show!
 
 Below are some YouTube links to songs that I enjoy on Sensory Bridge:
 
