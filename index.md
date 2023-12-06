@@ -13,5 +13,5 @@ nav_order: 1
 [Learn More](https://connornishijima.github.io/sensory_bridge_docs/about.html){: .btn .btn-green }
 [Configure Your Device](https://settings.sensorybridge.rocks){: .btn .btn-blue }
 
-<img class="small-img" src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/product.png?raw=true" style="margin-top: -50px; margin-left: -40px; margin-bottom: -40px;">
+<img class="small-img" src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/product.png?raw=true" style="margin-top: -30px; margin-left: -40px; margin-bottom: -40px;">
 
