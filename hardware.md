@@ -17,13 +17,10 @@ Want to print your parts in other colors? Make it taller? Add more knobs? Sensor
 
 Sensory Bridge is printed in [Galaxy Black PLA by Prusa Research](https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/), at a 0.2mm layer height.
 
-### Shell (Sensory Bridge)
-
-[DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/SENSORY_BRIDGE_BASE.stl){: .btn .btn-green }
-
-### Brace (Mini Mast)
-
-[DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }
+| Product                      | STL FILE                                                                                                                                          |
+|:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Shell (Sensory Bridge)**   | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/SENSORY_BRIDGE_BASE.stl){: .btn .btn-green }  |
+| **Brace (Mini Mast)**        | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }      |
 
 -------------------------------------------------
 
