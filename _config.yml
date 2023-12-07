@@ -30,5 +30,5 @@ aux_links:
 nav_external_links:
   - title: Settings
     url: https://settings.sensorybridge.rocks
-    hide_icon: true # set to true to hide the external link icon - defaults to false
+    hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
