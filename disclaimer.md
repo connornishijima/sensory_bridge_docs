@@ -12,3 +12,5 @@ nav_order: 99
 
 ## **The seller assumes no legal liability for injury caused to persons with PSE that have ignored this warning.**
 {: .text-center }
+
+![SENSORY BRIDGE IS OPEN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/sad.jpg?raw=true)
