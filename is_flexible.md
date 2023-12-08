@@ -1,5 +1,5 @@
 ---
-title: FLEXIBLE
+title: Flexible
 layout: page
 parent: Sensory Bridge Is...
 nav_order: 3
