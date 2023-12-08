@@ -9,6 +9,9 @@ url: https://connornishijima.github.io/sensory_bridge_docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: bridge
 
+ga_tracking: G-1C3WX4V60G
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 callouts_level: quiet
 
 callouts:
