@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<iframe class="youtube-video" src="https://www.youtube.com/embed/ALHj-XW7_6Y?si=NDxwEP0wKecF-Jry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/videoseries?si=ZTM-nMKS2ZB1g4xa&amp;list=PLjkfYMftlhL3dtpckucx7JcIJAoYMgycm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <t1>LET YOUR EYES ENJOY MUSIC TOO</t1>
 
