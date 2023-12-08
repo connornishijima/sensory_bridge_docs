@@ -52,3 +52,8 @@ SWEET SPOT
 At the front of Sensory Bridge are three LEDs which indicate if your music is playing too quietly or loudly for the auto-ranger to account for! That auto-ranging system make both quiet and loud music produce similar shows, so you don't have to keep adjusting your speakers.
 
 ![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
+
+{: .glow }
+> ***Next, let's take a look at how you can expand Sensory Bridge...***{: .text-right }
+> 
+> [SENSORY BRIDGE is FLEXIBLE →](https://sensorybridge.rocks/is_flexible.html){: .btn .btn-green .float-right }
