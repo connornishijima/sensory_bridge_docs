@@ -1,5 +1,5 @@
 ---
-title: OPEN
+title: Open
 layout: page
 parent: Sensory Bridge Is...
 nav_order: 4
