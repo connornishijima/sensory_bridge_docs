@@ -5,6 +5,8 @@ parent: Sensory Bridge Is...
 nav_order: 1
 ---
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/RL3yObsQm0s?si=AS5Fr2Ib6MsJxe1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # SENSORY BRIDGE is **DIFFERENT**
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
