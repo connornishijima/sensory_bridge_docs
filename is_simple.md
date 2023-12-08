@@ -1,7 +1,7 @@
 ---
 title: Simple
 layout: page
-parent: Sensory Bridge Is...
+parent: Sensory Bridge is...
 nav_order: 2
 ---
 
