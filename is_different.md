@@ -26,6 +26,6 @@ nav_order: 1
 With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show on any WS2812B (NeoPixel) or SK9822-compatible (DotStar) LED strip. No wires, you can even sing around it!
 
 {: .glow }
-> Next, let's explore the buttons and knobs on top of Sensory Bridge...{: .text-right }
+> ***Next, let's explore the buttons and knobs on top of Sensory Bridge...***{: .text-right }
 > 
 > [SENSORY BRIDGE is SIMPLE ⇝](https://sensorybridge.rocks/is_simple.html){: .btn .btn-green .float-right }
