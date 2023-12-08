@@ -2,6 +2,8 @@
 title: Sensory Bridge Is...
 layout: home
 nav_order: 3
+has_children: true
+has_toc: false
 ---
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/RL3yObsQm0s?si=AS5Fr2Ib6MsJxe1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
