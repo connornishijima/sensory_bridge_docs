@@ -6,65 +6,11 @@ has_children: true
 has_toc: false
 ---
 
-<iframe class="youtube-video" src="https://www.youtube.com/embed/RL3yObsQm0s?si=AS5Fr2Ib6MsJxe1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# SENSORY BRIDGE is **DIFFERENT**
-
-**This isn't the usual "sound-reactive LEDs" you've seen for years.**
-
-**Sensory Bridge was built by @lixielabs from the ground up as an open, powerful bridge between sight and sound.** With a show that's reactive to notation, vibrato and more, it produces very unique and pleasant-to-look-at light shows which synchronize to your music without any visible latency.
-
-With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show on any WS2812B (NeoPixel) or SK9822-compatible (DotStar) LED strip. No wires, you can even sing around it!
-
-**It has to be seen to be believed, *which the video demos below can help with:***
-
-<iframe class="youtube-video" src="https://www.youtube.com/embed/DEb243i0PBY?si=5EXWIyFWtimSqXYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe class="youtube-video" src="https://www.youtube.com/embed/ro3MlpuWv6Q?si=tPeFEBvYOUYjGNeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe class="youtube-video" src="https://www.youtube.com/embed/7S7_ckmVbzY?si=F3-L9eG011NvwwIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe class="youtube-video" src="https://www.youtube.com/embed/lSViYTUbcms?si=J8cbDCu977SW522o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 --------------------------------------------------------------
 
-# SENSORY BRIDGE is **SIMPLE**
 
-**Easy controls provide quick access to changing the brightness, color, and smoothing of the display!** (Each knob has a UI that appears on your LED strip whenever you turn them.)
-
-![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
-
-### PHOTONS
-
-Too bright? *Dim down the show* with the **PHOTONS** knob. (Sensory Bridge will use temporal dithering to keep producing color nicely at lower brightness levels.)
-
-### CHROMA
-
-Custom color or color based on the music's notation? Choose your style with the **CHROMA** knob, where turning it all the way to the top enables a full-specrum mode that colors the LEDs based on the music notation. (Each octave is represented by one full revolution of the color wheel, i.e. D# in every octave is always yellow.)
-
-### MOOD
-
-This knob is special. **MOOD** controls *how quickly your LEDs will react to changes in pitch and volume!* A low "mood" will be very soft and gradual, only showing things like the underlying chord progression of a song, whereas a *high* "mood" will be extremely reactive, and can be a little too flashy for some people's liking. Luckily, you can blend the value to anywhere between those two extremes whenever you want to find what look you prefer!
-
-### NOISE BUTTON
-
-Running the A/C? Is the washing machine suddenly on the spin cycle? Don't worry, just pause the music for a moment and press the **NOISE BUTTON** to run a 3-second calibration to *automagically* have noisy background ambience removed from your light show.
-
-### MODE BUTTON
-
-Sensory Bridge currently has 6 built-in light show modes that you can cycle through with a tap, and holding this button toggles the mirroring effect on the LED strip.
-
-# **SWEET SPOT**
-
-At the front of Sensory Bridge are three LEDs which indicate if your music is playing too quietly or loudly for the auto-ranger to account for! That auto-ranging system make both quiet and loud music produce similar shows, so you don't have to keep adjusting your speakers.
-
-![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
-
-# SENSORY BRIDGE is **FLEXIBLE**
-
-While compatible with any WS2812B or APA102/SK9822-based LED strip (just use the screw terminals at the back!) there's also the option of using the **"Mini Mast"**, a dense strip of 128 1.5mm RGB LEDs on a 260mm long PCB! It just plugs directly into the Sensory Bridge accessory port, making for a very portable solution!
-
-![SENSORY BRIDGE IS FLEXIBLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/12.jpg?raw=true)
 
 # SENSORY BRIDGE is **OPEN**
 
