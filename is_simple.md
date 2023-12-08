@@ -11,7 +11,8 @@ nav_order: 2
 
 ![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
-### PHOTONS
+PHOTONS
+{: .mx-auto .fs-6 .fw-700 }
 
 Too bright? *Dim down the show* with the **PHOTONS** knob. (Sensory Bridge will use temporal dithering to keep producing color nicely at lower brightness levels.)
 
