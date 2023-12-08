@@ -24,11 +24,11 @@ It has to be seen to be believed, *which the video demos below can help with:*
 
 --------------------------------------------------------------
 
-![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
-
 # SENSORY BRIDGE is **SIMPLE**
 
-**Easy controls provide quick access to changing the brightness, color, and smoothing of the display!**
+**Easy controls provide quick access to changing the brightness, color, and smoothing of the display!** Each knob has a UI that appears on your LED strip whenever you turn them.
+
+![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
 ### PHOTONS
 
