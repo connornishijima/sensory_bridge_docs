@@ -1,5 +1,5 @@
 ---
-title: Different
+title: DIFFERENT
 layout: page
 parent: Sensory Bridge Is...
 nav_order: 1
