@@ -28,57 +28,27 @@ It has to be seen to be believed, *which the video demos below can help with:*
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/2.jpg?raw=true)
 
-# **KNOBS**
-
-## PHOTONS KNOB
+### PHOTONS
 
 Too bright? *Dim down the show* with the **PHOTONS** knob. The FastLED code in the firmware will use dithering to keep producing color nicely at lower brightness levels.
 
-## CHROMA KNOB
+### CHROMA
 
 Custom color or automated color based on the music's notation? Choose with the **CHROMA** knob, where turning it all the way to the top enables automated color changes.
 
-## MOOD KNOB
+### MOOD
 
 This knob is special. **MOOD** controls *how quickly your LEDs will react to changes in pitch and volume!* A low "mood" will be very soft and gradual, only showing things like the underlying chord progression of a song, whereas a *high* "mood" will be extremely reactive, and can be a little too flashy for some people's liking. Luckily, you can blend the value to anywhere between those two extremes whenever you want to find what look you prefer!
 
 ![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
-# **BUTTONS**
-
-## NOISE BUTTON
+### NOISE BUTTON
 
 Running the A/C? Is the washing machine suddenly on the spin cycle? Don't worry, just pause the music for a moment and press the **NOISE BUTTON** to run a 3-second calibration to *automagically* have noisy background ambience removed from your light show.
 
-## MODE BUTTON
+### MODE BUTTON
 
-Sensory Bridge currently has 6 built-in light show modes that you can cycle through:
-
-### "Spectrogram Mode"
-
-This is the default show seen in the videos, based on Discrete Fourier Transform data. Each octave of notation shown on the display has a spectrum of colors for the individual notes, which are lit in sync with your music!
-
-### "Chromagram Mode"
-
-Similar to Spectrogram Mode, but all octaves of notes are rolled into one! Best with the **MOOD** knob at a low to medium setting.
-
-### "Bloom Mode"
-
-This mode differs from the others. The intensity of the audio is shown in the center of the LED strip, and is diffused outward in a non-linear fashion as time passes, leading to a 2001 "Stargate Sequence" effect!. Color is derived from the notes your music is playing.
-
-### "Bloom Mode" (Faster)
-
-Same as above, but double the speed for when you're partying hard!
-
-### "VU Meter Mode"
-
-It's a classic! A bouncing bar graph represents the current loudness of the music.
-
-### "VU Meter Mode (Dot)"
-
-Same as above, but represented with a dot instead of a bar, staying a constant brightness.
-
-## ***MORE MODES WILL BE RELEASED IN FUTURE FIRMWARE UPDATES!***
+Sensory Bridge currently has 6 built-in light show modes that you can cycle through with this button.
 
 ![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
 
