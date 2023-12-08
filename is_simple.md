@@ -11,6 +11,8 @@ nav_order: 2
 
 ![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
+![photons](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/photons.svg?raw=true){: .sb-icon }
+
 PHOTONS
 {: .text-center .fs-7 .fw-700 }
 
