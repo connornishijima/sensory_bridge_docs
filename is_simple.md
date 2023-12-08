@@ -18,7 +18,7 @@ PHOTONS
 
 Too bright? *Dim down the show* with the **PHOTONS** knob. (Sensory Bridge will use temporal dithering to keep producing color nicely at lower brightness levels.)
 
-&nbsp;
+![chroma](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/chroma.svg?raw=true){: .sb-icon }
 
 CHROMA
 {: .text-center .fs-7 .fw-700 }
