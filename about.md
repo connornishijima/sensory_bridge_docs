@@ -14,7 +14,7 @@ nav_order: 4
 
 With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show on any WS2812B (NeoPixel) or SK9822-compatible (DotStar) LED strip. No wires, you can even sing around it!
 
-It has to be seen to be believed, *which the video demos below can help with:*
+**It has to be seen to be believed, *which the video demos below can help with:***
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/DEb243i0PBY?si=5EXWIyFWtimSqXYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -52,31 +52,23 @@ Running the A/C? Is the washing machine suddenly on the spin cycle? Don't worry,
 
 Sensory Bridge currently has 6 built-in light show modes that you can cycle through with a tap, and holding this button toggles the mirroring effect on the LED strip.
 
-![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
-
 # **SWEET SPOT**
 
 At the front of Sensory Bridge are three LEDs which indicate if your music is playing too quietly or loudly for the auto-ranger to account for! That auto-ranging system make both quiet and loud music produce similar shows, so you don't have to keep adjusting your speakers.
 
-![SENSORY BRIDGE IS FLEXIBLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/12.jpg?raw=true)
+![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
 
 # SENSORY BRIDGE is **FLEXIBLE**
 
 While compatible with any WS2812B or APA102/SK9822-based LED strip (just use the screw terminals at the back!) there's also the option of using the **"Mini Mast"**, a dense strip of 128 1.5mm RGB LEDs on a 260mm long PCB! It just plugs directly into the Sensory Bridge accessory port, making for a very portable solution!
 
-![SENSORY BRIDGE IS OPEN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/1.jpg?raw=true)
+![SENSORY BRIDGE IS FLEXIBLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/12.jpg?raw=true)
 
 # SENSORY BRIDGE is **OPEN**
 
---------------------------------------------------------
-
-### NOTE: This repo is used for active development.
-
-For the latest stable release of the Sensory Bridge firmware, **[visit the Releases page](https://github.com/connornishijima/SensoryBridge/releases)**! (Cloning straight from this repo is much like a "nightly" build, and may be broken code!)
-
---------------------------------------------------------
-
 Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpose you'd like! The firmware is [open source](https://github.com/connornishijima/SensoryBridge) under the [MIT License](https://github.com/connornishijima/SensoryBridge/blob/main/LICENSE), so modifying it for your own purposes is quick and easy with the Arduino IDE. You can even download the [board](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB) and [case STLs](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/3D%20Printing) to build one yourself!
+
+![SENSORY BRIDGE IS OPEN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/1.jpg?raw=true)
 
 ![OSHW FACTS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/oshw_facts.svg?raw=true)
 
