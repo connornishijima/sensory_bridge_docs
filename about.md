@@ -4,6 +4,8 @@ layout: home
 nav_order: 4
 ---
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/RL3yObsQm0s?si=AS5Fr2Ib6MsJxe1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # SENSORY BRIDGE is **DIFFERENT**
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
@@ -12,14 +14,8 @@ nav_order: 4
 
 It has to be seen to be believed, *which the video demos below can help with:*
 
-<iframe class="youtube-video" src="https://www.youtube.com/embed/RL3yObsQm0s?si=AS5Fr2Ib6MsJxe1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEb243i0PBY?si=5EXWIyFWtimSqXYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[![STREET BY STREET](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/street_by_street.jpg?raw=true)](https://www.youtube.com/watch?v=trJYa3U8nCU)
-[![TRUSTFUL_HANDS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/trustful_hands.jpg?raw=true)](https://www.youtube.com/watch?v=0EICjxSjveM)
-[![ON THE RUN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/on_the_run.jpg?raw=true)](https://www.youtube.com/watch?v=RWJjWcHplGc)
-[![GET YOU](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/get_you.jpg?raw=true)](https://www.youtube.com/watch?v=lk1oRJr7TGo)
-[![PLANTASIA](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/plantasia.jpg?raw=true)](https://www.youtube.com/watch?v=Hz8LxBKy5SI)
-[![NINA](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/nina.jpg?raw=true)](https://www.youtube.com/watch?v=OXu3x7s3SVE)
 
 # SENSORY BRIDGE is **SIMPLE**
 
