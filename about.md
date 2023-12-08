@@ -14,7 +14,13 @@ nav_order: 4
 
 It has to be seen to be believed, *which the video demos below can help with:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEb243i0PBY?si=5EXWIyFWtimSqXYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/DEb243i0PBY?si=5EXWIyFWtimSqXYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/ro3MlpuWv6Q?si=tPeFEBvYOUYjGNeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/7S7_ckmVbzY?si=F3-L9eG011NvwwIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/lSViYTUbcms?si=J8cbDCu977SW522o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # SENSORY BRIDGE is **SIMPLE**
