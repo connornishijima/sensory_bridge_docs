@@ -9,6 +9,8 @@ nav_order: 5
 
 For $60, you'll receive a ***fully assembled Sensory Bridge***, with the latest firmware already installed. For $40 extra, you can have a **Mini Mast** (128 micro-LED PCB, seen below) sent as well, with an accompanying brace that provides rigidity. (It just plugs right into the accessory port on top of Sensory Bridge!)
 
+[Purchase Sensory Bridge](https://sensorybridge.rocks/purchase.html/){: .btn .btn-green }
+
 ![WHATS INCLUDED](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/8.jpg?raw=true)
 
 # EXTRAS YOU **MIGHT NEED:**
