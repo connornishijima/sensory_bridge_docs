@@ -25,7 +25,7 @@ CHROMA
 
 Custom color or color based on the music's notation? Choose your style with the **CHROMA** knob, where turning it all the way to the top enables a full-specrum mode that colors the LEDs based on the music notation. (Each octave is represented by one full revolution of the color wheel, i.e. D# in every octave is always yellow.)
 
-![mood](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mood.svg?raw=true){: .sb-icon }
+![mood](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mood.svg?raw=true){: .sb-icon } 
 
 MOOD
 {: .text-center .fs-7 .fw-700 }
