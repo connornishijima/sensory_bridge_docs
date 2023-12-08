@@ -14,3 +14,8 @@ Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpos
 ![OSHW FACTS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/oshw_facts.svg?raw=true)
 
 ![SENSORY BRIDGE IS OPEN](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/1.jpg?raw=true)
+
+{: .glow }
+> ***If you're feeling interested in a Sensory Bridge, let's look at what's included in the box...***{: .text-right }
+> 
+> [What's Included →](https://sensorybridge.rocks/whats_included.html){: .btn .btn-green .float-right }
