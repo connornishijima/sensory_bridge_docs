@@ -1,7 +1,7 @@
 ---
 title: What's Included
 layout: page
-parent: Sensory Bridge Is...
+parent: Sensory Bridge is...
 nav_order: 5
 ---
 
