@@ -28,4 +28,4 @@ With it's built-in digital microphone it automatically converts any music playin
 {: .glow }
 > ***Next, let's explore the buttons and knobs on top of Sensory Bridge...***{: .text-right }
 > 
-> [SENSORY BRIDGE is SIMPLE ⇝](https://sensorybridge.rocks/is_simple.html){: .btn .btn-green .float-right }
+> [SENSORY BRIDGE is SIMPLE →](https://sensorybridge.rocks/is_simple.html){: .btn .btn-green .float-right }
