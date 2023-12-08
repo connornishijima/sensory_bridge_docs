@@ -1,5 +1,5 @@
 ---
-title: Purchase ($60)
+title: "<strong>Purchase ($60)</strong>"
 layout: page
 nav_order: 99
 ---
