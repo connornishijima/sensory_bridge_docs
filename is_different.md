@@ -26,6 +26,6 @@ With it's built-in digital microphone it automatically converts any music playin
 <iframe class="youtube-video" src="https://www.youtube.com/embed/lSViYTUbcms?si=J8cbDCu977SW522o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {: .glow }
-> Next, let's explore the buttons and knobs on top of Sensory Bridge...
+> Next, let's explore the buttons and knobs on top of Sensory Bridge...{: .text-right }
 > 
-> [SENSORY BRIDGE is SIMPLE 🢂](https://sensorybridge.rocks/is_simple.html){: .btn .btn-green }
+> [SENSORY BRIDGE is SIMPLE 🢂](https://sensorybridge.rocks/is_simple.html){: .btn .btn-green .float-right }
