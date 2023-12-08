@@ -1,7 +1,7 @@
 ---
 title: "<purchaselink>Purchase ($60)</purchaselink>"
 layout: page
-nav_order: 99
+nav_order: 1
 ---
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/purchase.jpg?raw=true)
