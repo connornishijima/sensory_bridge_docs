@@ -1,5 +1,5 @@
 ---
-title: Purchase
+title: Purchase ($60)
 layout: page
 nav_order: 99
 ---
