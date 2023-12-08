@@ -22,11 +22,13 @@ It has to be seen to be believed, *which the video demos below can help with:*
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/lSViYTUbcms?si=J8cbDCu977SW522o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+--------------------------------------------------------------
+
+![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
+
 # SENSORY BRIDGE is **SIMPLE**
 
 **Easy controls provide quick access to changing the brightness, color, and smoothing of the display!**
-
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/2.jpg?raw=true)
 
 ### PHOTONS
 
@@ -39,8 +41,6 @@ Custom color or automated color based on the music's notation? Choose with the *
 ### MOOD
 
 This knob is special. **MOOD** controls *how quickly your LEDs will react to changes in pitch and volume!* A low "mood" will be very soft and gradual, only showing things like the underlying chord progression of a song, whereas a *high* "mood" will be extremely reactive, and can be a little too flashy for some people's liking. Luckily, you can blend the value to anywhere between those two extremes whenever you want to find what look you prefer!
-
-![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
 ### NOISE BUTTON
 
