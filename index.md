@@ -1,7 +1,7 @@
 ---
 title: Intro
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/ALHj-XW7_6Y?si=NDxwEP0wKecF-Jry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
