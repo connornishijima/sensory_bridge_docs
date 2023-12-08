@@ -20,4 +20,4 @@ Originally designed as an accessory for Sensory Bridge, MiniMast is also breadbo
 
 **The screw holes for mounting are M3, and are 12mm apart*
 
-[PURCHASE A MINIMAST](https://lectronz.com/products/sensory-bridge-an-advanced-led-music-visualizer){: .btn .btn-green }
+[PURCHASE A MINIMAST](purchase.html){: .btn .btn-green }
