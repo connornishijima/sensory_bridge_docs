@@ -12,6 +12,8 @@ nav_order: 4
 
 **Sensory Bridge was built by @lixielabs from the ground up as an open, powerful bridge between sight and sound.** With a show that's reactive to notation, vibrato and more, it produces very unique and pleasant-to-look-at light shows which synchronize to your music without any visible latency.
 
+With it's built-in digital microphone it automatically converts any music playing in your space into a compelling and colorful show on any WS2812B (NeoPixel) or SK9822-compatible (DotStar) LED strip. No wires, you can even sing around it!
+
 It has to be seen to be believed, *which the video demos below can help with:*
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/DEb243i0PBY?si=5EXWIyFWtimSqXYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -26,17 +28,17 @@ It has to be seen to be believed, *which the video demos below can help with:*
 
 # SENSORY BRIDGE is **SIMPLE**
 
-**Easy controls provide quick access to changing the brightness, color, and smoothing of the display!** Each knob has a UI that appears on your LED strip whenever you turn them.
+**Easy controls provide quick access to changing the brightness, color, and smoothing of the display!** (Each knob has a UI that appears on your LED strip whenever you turn them.)
 
 ![KNOBS](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/16.jpg?raw=true)
 
 ### PHOTONS
 
-Too bright? *Dim down the show* with the **PHOTONS** knob. The FastLED code in the firmware will use dithering to keep producing color nicely at lower brightness levels.
+Too bright? *Dim down the show* with the **PHOTONS** knob. (Sensory Bridge will use temporal dithering to keep producing color nicely at lower brightness levels.)
 
 ### CHROMA
 
-Custom color or automated color based on the music's notation? Choose with the **CHROMA** knob, where turning it all the way to the top enables automated color changes.
+Custom color or color based on the music's notation? Choose your style with the **CHROMA** knob, where turning it all the way to the top enables a full-specrum mode that colors the LEDs based on the music notation. (Each octave is represented by one full revolution of the color wheel, i.e. D# in every octave is always yellow.)
 
 ### MOOD
 
@@ -48,13 +50,13 @@ Running the A/C? Is the washing machine suddenly on the spin cycle? Don't worry,
 
 ### MODE BUTTON
 
-Sensory Bridge currently has 6 built-in light show modes that you can cycle through with this button.
+Sensory Bridge currently has 6 built-in light show modes that you can cycle through with a tap, and holding this button toggles the mirroring effect on the LED strip.
 
 ![SWEET SPOT](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/3.jpg?raw=true)
 
 # **SWEET SPOT**
 
-At the front of the base unit are three LEDs, which indicate if your music is playing too quietly for the auto-ranger to account for, or if it's too loud! (Close to clipping!)
+At the front of Sensory Bridge are three LEDs which indicate if your music is playing too quietly or loudly for the auto-ranger to account for! That auto-ranging system make both quiet and loud music produce similar shows, so you don't have to keep adjusting your speakers.
 
 ![SENSORY BRIDGE IS FLEXIBLE](https://github.com/connornishijima/SensoryBridge/blob/main/extras/img/12.jpg?raw=true)
 
