@@ -76,7 +76,7 @@ Powered by an ESP32-S2, Sensory Bridge can be easily reprogrammed for any purpos
 
 # WHAT'S **INCLUDED:**
 
-For $50, you'll receive a ***fully assembled Sensory Bridge***, with the latest firmware already installed. For $25 extra, you can have a **Mini Mast** (128 micro-LED PCB, seen above) sent as well, with an accompanying brace that provides rigidity. (It just plugs right into the accessory port on top of Sensory Bridge!)
+For $60, you'll receive a ***fully assembled Sensory Bridge***, with the latest firmware already installed. For $40 extra, you can have a **Mini Mast** (128 micro-LED PCB, seen above) sent as well, with an accompanying brace that provides rigidity. (It just plugs right into the accessory port on top of Sensory Bridge!)
 
 # EXTRAS YOU **MIGHT NEED:**
 
