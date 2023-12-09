@@ -9,7 +9,7 @@ nav_order: 1
 
 **This isn't the usual "sound-reactive LEDs" you've seen for years.**
 
-**Sensory Bridge was built by @lixielabs from the ground up as an open, powerful bridge between sight and sound.** With a show that's reactive to notation, vibrato and more, it produces very unique and pleasant-to-look-at light shows which synchronize to your music without any visible latency.
+**Sensory Bridge was built by [@lixielabs](https://leds.social/@lixielabs) from the ground up as an open, powerful bridge between sight and sound.** With a show that's reactive to notation, vibrato and more, it produces very unique and pleasant-to-look-at light shows which synchronize to your music without any visible latency.
 
 **It has to be seen to be believed, *which the video demos below can help with:***
 
