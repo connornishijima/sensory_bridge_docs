@@ -22,3 +22,5 @@ Originally designed as an accessory for Sensory Bridge, MiniMast is also breadbo
 **The screw holes for mounting are M3, and are 12mm apart*
 
 [PURCHASE A MINIMAST](purchase.html){: .btn .btn-green }
+
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast8.jpg?raw=true)
