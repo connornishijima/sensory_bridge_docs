@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Flasher Demo</title>
+    <title>Light Transfer Demo</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
         body {
@@ -36,6 +36,13 @@
 	
     <script>
 		let screen_face_down = false;
+
+	    function close_keyboard() {
+		    // Blur any element that is currently focused
+		    if (document.activeElement && document.activeElement.blur) {
+		        document.activeElement.blur();
+		    }
+		}
 		
 		// Function to check if the phone is face down
 		function check_device_orientation(event) {
@@ -48,6 +55,7 @@
 			    if (betaUpsideDown && gammaNotTilted) {
 				if(screen_face_down == false){
 					screen_face_down = true;
+					close_keyboard();
 					document.getElementById("flasher").style.display = "block";
 					//document.getElementById("orientation").innerHTML = "FACE DOWN";
 					transmit_data();
@@ -71,6 +79,7 @@
 			document.getElementById("submit_button").style.display = "block";
 			screen_face_down = true;
 			document.getElementById("flasher").style.display = "block";
+			close_keyboard();
 			transmit_data();
 		}	
 	
