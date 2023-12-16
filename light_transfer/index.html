@@ -40,10 +40,10 @@
 		// Function to check if the phone is face down
 		function check_device_orientation(event) {
 			// Check if beta is within the range of -180 ± some threshold (e.g., 30 degrees)
-			    const betaUpsideDown = (event.beta < -150 || event.beta > 150);
+			    const betaUpsideDown = (event.beta < -120 || event.beta > 120);
 			
 			    // Check if gamma is close to 0 (± a threshold, e.g., 30 degrees)
-			    const gammaNotTilted = (event.gamma > -30 && event.gamma < 30);
+			    const gammaNotTilted = (event.gamma > -45 && event.gamma < 45);
 			
 			    if (betaUpsideDown && gammaNotTilted) {
 				if(screen_face_down == false){
