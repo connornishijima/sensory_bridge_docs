@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Flasher Demo</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Light Transfer Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
         body {
             background-color: black;
             color: white;
         }
         #flasher {
-            width: 100%;
-            height: 200px;
+            position: fixed; /* or absolute */
+			top: 0;
+			left: 0;
+			width: 100vw;
+			height: 100vh;
+			background-color: #000; /* or any color you prefer */
+			z-index: 1000; /* ensures it stays on top of other content */
             background-color: black;
+			display:none;
         }
 		#debug_output{
 			width: 100%;
@@ -23,10 +29,10 @@
     </style>
 </head>
 <body>
-	<canvas id="flasher" width="100" height="100"></canvas><br>
+	<canvas id="flasher" width="100%" height="100%"></canvas><br>
 	<br>
     <input type="text" id="input_data" value="thisisatest:ofsendingdata" placeholder="Enter ASCII Data">
-    <button onclick="transmit_data()">Submit</button>
+	<input type="button" value="SUBMIT" id="submit_button" onclick="transmit_data();" style="display:none;" />
     <div id="debug_output"></div>
 	<div id="orientation">FACE UP</div>
 	
@@ -40,12 +46,14 @@
 			if (event.beta > 160 && event.beta < 200) {
 				if(screen_face_down == false){
 					screen_face_down = true;
+					document.getElementById("flasher").style.display = "block";
 					document.getElementById("orientation").innerHTML = "FACE DOWN";
 					transmit_data();
 				}
 				
 			} else {
 				if(screen_face_down == true){
+					document.getElementById("flasher").style.display = "none";
 					document.getElementById("orientation").innerHTML = "FACE UP";
 					screen_face_down = false;
 				}
@@ -58,11 +66,11 @@
 			window.addEventListener("deviceorientation", check_device_orientation, true);
 		} else {
 			document.getElementById("orientation").innerHTML = "Device Orientation API not supported";
-		}
-
-	
-	
-	
+			document.getElementById("submit_button").style.display = "block";
+			screen_face_down = true;
+			document.getElementById("flasher").style.display = "block";
+			transmit_data();
+		}	
 	
         const frame_lengths = [1,6,20];
 		
