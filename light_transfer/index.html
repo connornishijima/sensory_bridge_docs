@@ -83,7 +83,7 @@
 			transmit_data();
 		}	
 	
-        const frame_lengths = [1,5,30];
+        const frame_lengths = [1,5,15];
 		
 		function crc8(s) {
 			const polynomial = 0x07; // Standard polynomial for CRC8
@@ -150,7 +150,7 @@
 			let output_data = [];
 			
 			// PREAMBLE
-			output_data.push('2','2','0','0','0','0','1','1','1','1');
+			output_data.push('0','2','0','2','1','2','1','2');
 			
 			// HEADER
 			output_data.push('0','1','0','1','0','0','1','1','0','1','0','0','0','0','1','0','0','1','0','0','0','1','1','0');
