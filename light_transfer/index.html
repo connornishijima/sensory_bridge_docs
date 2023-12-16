@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Light Transfer Demo</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Flasher Demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
         body {
             background-color: black;
@@ -31,19 +31,16 @@
 <body>
 	<canvas id="flasher" width="100%" height="100%"></canvas><br>
 	<br>
-    <input type="text" id="input_data" value="thisisatest:ofsendingdata" placeholder="Enter ASCII Data">
+    <input type="text" id="input_data" value="thisisatest:ofsendingdata" placeholder="Enter ASCII Data To Transmit">
 	<input type="button" value="SUBMIT" id="submit_button" onclick="transmit_data();" style="display:none;" />
-    <div id="debug_output"></div>
-	<div id="orientation">FACE UP</div>
 	
     <script>
 		let screen_face_down = false;
 		
 		// Function to check if the phone is face down
 		function check_device_orientation(event) {
-			document.getElementById("orientation").innerHTML = event.beta;
 			// Beta value near 180 degrees indicates face down
-			if (event.beta > 160 && event.beta < 200) {
+			if (event.beta > 140 && event.beta < 220) {
 				if(screen_face_down == false){
 					screen_face_down = true;
 					document.getElementById("flasher").style.display = "block";
