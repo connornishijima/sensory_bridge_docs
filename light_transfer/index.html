@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flasher Demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+        #flasher {
+            width: 100%;
+            height: 200px;
+            background-color: black;
+        }
+		#debug_output{
+			width: 100%;
+			display: block;
+			height: 100px;
+			word-wrap: break-word;
+			font-family:monospace;
+		}
+    </style>
+</head>
+<body>
+	<canvas id="flasher" width="100" height="100"></canvas><br>
+	<br>
+    <input type="text" id="input_data" value="thisisatest:ofsendingdata" placeholder="Enter ASCII Data">
+    <button onclick="transmit_data()">Submit</button>
+    <div id="debug_output"></div>
+	<div id="orientation">FACE UP</div>
+	
+    <script>
+		let screen_face_down = false;
+		
+		// Function to check if the phone is face down
+		function check_device_orientation(event) {
+			document.getElementById("orientation").innerHTML = event.beta;
+			// Beta value near 180 degrees indicates face down
+			if (event.beta > 160 && event.beta < 200) {
+				if(screen_face_down == false){
+					screen_face_down = true;
+					document.getElementById("orientation").innerHTML = "FACE DOWN";
+					transmit_data();
+				}
+				
+			} else {
+				if(screen_face_down == true){
+					document.getElementById("orientation").innerHTML = "FACE UP";
+					screen_face_down = false;
+				}
+			}
+		}
+
+		// Add an event listener for device orientation changes
+		if (window.DeviceOrientationEvent) {
+			document.getElementById("orientation").innerHTML = "Device Orientation API supported";
+			window.addEventListener("deviceorientation", check_device_orientation, true);
+		} else {
+			document.getElementById("orientation").innerHTML = "Device Orientation API not supported";
+		}
+
+	
+	
+	
+	
+        const frame_lengths = [1,6,20];
+		
+		function crc8(s) {
+			const polynomial = 0x07; // Standard polynomial for CRC8
+			let crc_table = [];
+
+			// Generate CRC table
+			for (let i = 0; i < 256; i++) {
+				let crc = i;
+				for (let j = 0; j < 8; j++) {
+					crc = (crc & 0x80) ? ((crc << 1) ^ polynomial) & 0xFF : (crc << 1);
+				}
+				crc_table[i] = crc;
+			}
+
+			// Calculate CRC
+			let crc = 0xFF; // Initial value
+			for (let i = 0; i < s.length; i++) {
+				let byte = s.charCodeAt(i);
+				crc = crc_table[(crc ^ byte) & 0xFF];
+			}
+
+			return crc ^ 0xFF; // Final XOR
+		}
+
+        function transmit_data() {
+            const input_string = document.getElementById('input_data').value;
+            document.getElementById('debug_output').innerHTML = '';
+			
+            flash_canvas(input_string);
+        }
+
+        function ascii_to_bits(str) {
+            return str.split('')
+                      .map(char => char.charCodeAt(0).toString(2).padStart(8, '0'))
+                      .join('')
+                      .split('');
+        }
+		
+		function byte_to_bits(value) {
+			// Ensure the value is within the 8-bit range
+			if (value < 0 || value > 255) {
+				throw new Error('Value must be between 0 and 255');
+			}
+
+			// Convert the number to a binary string
+			let binary_string = value.toString(2);
+
+			// Pad the string with leading zeros to ensure it is 8 bits
+			binary_string = binary_string.padStart(8, '0');
+
+			// Split the string into an array of characters
+			return binary_string.split('');
+		}
+
+        function flash_canvas(input_string) {
+			let binary_data = ascii_to_bits(input_string);
+		
+            const canvas = document.getElementById('flasher');
+            const context = canvas.getContext('2d');
+            let bit_index = 0;
+			let bit_state = !parseInt(binary_data[0]);
+			let skip_frames = 0;
+			
+			let output_data = [];
+			
+			// PREAMBLE
+			output_data.push('0','0','0','0','0','0','0','0');
+			
+			// HEADER
+			output_data.push('0','1','0','1','0','0','1','1','0','1','0','0','0','0','1','0','0','1','0','0','0','1','1','0','0','1','0','1','0','0','0','0');
+			
+			// DATA LENGTH
+			let length_bits = byte_to_bits(input_string.length);
+			for(let x = 0; x < 8; x++){
+				output_data.push(length_bits[x]);
+			}
+			
+			// DATA
+			for(let x = 0; x < binary_data.length; x++){
+				output_data.push(binary_data[x]);
+			}
+			
+			// CRC8
+			let CRC8_bits = byte_to_bits(crc8(input_string));
+			for(let x = 0; x < 8; x++){
+				output_data.push(CRC8_bits[x]);
+			}
+			
+			console.log(output_data);
+			
+            function flash_bit() {
+				if(skip_frames == 0){
+					if (bit_index >= output_data.length) {
+						context.fillStyle = 'black';
+						context.fillRect(0, 0, canvas.width, canvas.height);
+						setTimeout(transmit_data, 100);
+						return; // Stop when all bits are transmitted
+					}
+					else{
+						const bit = output_data[bit_index];
+						document.getElementById('debug_output').innerText += bit;
+
+						if(bit_state == 0){
+							bit_state = 1;
+							if(parseInt(bit) != 2){
+								context.fillStyle = 'white';
+								context.fillRect(0, 0, canvas.width, canvas.height);
+							}
+						}
+						else if(bit_state == 1){
+							bit_state = 0;
+							context.fillStyle = 'black';
+							context.fillRect(0, 0, canvas.width, canvas.height);
+						}
+
+						skip_frames = frame_lengths[ parseInt(bit) ]-1; 
+						
+						bit_index++;
+					}
+                }
+				else{
+					skip_frames -= 1;
+				}
+
+
+				if(screen_face_down == true){
+					requestAnimationFrame(flash_bit);
+				}
+            }
+
+            requestAnimationFrame(flash_bit);
+        }
+    </script>
+</body>
+</html>
