@@ -44,14 +44,14 @@
 				if(screen_face_down == false){
 					screen_face_down = true;
 					document.getElementById("flasher").style.display = "block";
-					document.getElementById("orientation").innerHTML = "FACE DOWN";
+					//document.getElementById("orientation").innerHTML = "FACE DOWN";
 					transmit_data();
 				}
 				
 			} else {
 				if(screen_face_down == true){
 					document.getElementById("flasher").style.display = "none";
-					document.getElementById("orientation").innerHTML = "FACE UP";
+					//document.getElementById("orientation").innerHTML = "FACE UP";
 					screen_face_down = false;
 				}
 			}
@@ -59,10 +59,10 @@
 
 		// Add an event listener for device orientation changes
 		if (window.DeviceOrientationEvent) {
-			document.getElementById("orientation").innerHTML = "Device Orientation API supported";
+			//document.getElementById("orientation").innerHTML = "Device Orientation API supported";
 			window.addEventListener("deviceorientation", check_device_orientation, true);
 		} else {
-			document.getElementById("orientation").innerHTML = "Device Orientation API not supported";
+			//document.getElementById("orientation").innerHTML = "Device Orientation API not supported";
 			document.getElementById("submit_button").style.display = "block";
 			screen_face_down = true;
 			document.getElementById("flasher").style.display = "block";
@@ -96,7 +96,7 @@
 
         function transmit_data() {
             const input_string = document.getElementById('input_data').value;
-            document.getElementById('debug_output').innerHTML = '';
+            //document.getElementById('debug_output').innerHTML = '';
 			
             flash_canvas(input_string);
         }
@@ -170,7 +170,7 @@
 					}
 					else{
 						const bit = output_data[bit_index];
-						document.getElementById('debug_output').innerText += bit;
+						//document.getElementById('debug_output').innerText += bit;
 
 						if(bit_state == 0){
 							bit_state = 1;
