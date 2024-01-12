@@ -6,9 +6,9 @@ nav_order: 1
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/purchase.jpg?raw=true)
 
-# Purchase SENSORY BRIDGE and MicroDose
+# Purchase SENSORY BRIDGE / MicroDose
 
-Both Sensory Bridge and MicroDose are available for sale on the Lixie Labs store. (hosted on lectronz.com)
+Both Sensory Bridge and MicroDose are available separately for sale on the Lixie Labs store. (hosted on lectronz.com)
 
 Current prices for each are:
 
