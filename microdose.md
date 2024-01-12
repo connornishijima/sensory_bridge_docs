@@ -17,20 +17,20 @@ Originally designed as an accessory for Sensory Bridge, MicroDose is also breadb
 
 ## Arduino Usage
 
-To set up both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
+To use both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
 
 ```cpp
 #include "FastLED.h"       // Import FastLED library
 #define NUM_LEDS   ( 128 ) // MicroDose has 128 LEDs
-#define DATA_PIN_1 ( 12 )  // GPIO pin for Data 1 line
-#define DATA_PIN_2 ( 13 )  // GPIO pin for Data 2 line
+#define DATA_1_GPIO ( 12 )  // GPIO pin for Data 1 line
+#define DATA_2_GPIO ( 13 )  // GPIO pin for Data 2 line
 
 CRGB leds[ NUM_LEDS ];     // Image buffer
 
 void setup() {
   // Initialize both data lanes for each half of the display
-  FastLED.addLeds< NEOPIXEL, DATA_PIN_1 >( leds, 0,            NUM_LEDS / 2 );
-  FastLED.addLeds< NEOPIXEL, DATA_PIN_2 >( leds, NUM_LEDS / 2, NUM_LEDS / 2 );
+  FastLED.addLeds< NEOPIXEL, DATA_1_GPIO >( leds, 0,            NUM_LEDS / 2 );
+  FastLED.addLeds< NEOPIXEL, DATA_2_GPIO >( leds, NUM_LEDS / 2, NUM_LEDS / 2 );
 }
 
 void loop() {
@@ -50,9 +50,9 @@ CircuitPython doesn't yet support parallel data lines for WS2812B-compatible LED
 ```python
 import board, neopixel, time
 
-NUM_PIXELS = 128       # Number of NeoPixels
-DATA_PIN_1 = board.D1  # Pin where NeoPixels are connected
-pixels     = neopixel.NeoPixel(DATA_PIN_1, NUM_PIXELS, brightness=0.25, auto_write=True)
+NUM_PIXELS  = 128
+DATA_1_GPIO = board.D1
+pixels      = neopixel.NeoPixel(DATA_PIN_1, NUM_PIXELS, brightness=0.25, auto_write=True)
 
 while True:
     pixels.fill((255, 0, 0)) # Fill red
