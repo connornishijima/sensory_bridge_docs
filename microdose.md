@@ -5,7 +5,7 @@ nav_order: 5
 has_toc: false
 ---
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_closeup.png?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_banner.jpg?raw=true)
 
 # MicroDose // 128 Micro-LED Strip
 
