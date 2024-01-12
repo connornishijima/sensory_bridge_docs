@@ -9,7 +9,9 @@ has_toc: false
 
 # MicroDose // 128 Micro-LED Strip
 
-**MicroDose is a remarkably tiny 20cm RGB LED strip made of *even tinier* RGB LEDs!** Featuring **128 1mm** ultra-bright RGB LEDs, MicroDose is WS2812B-compatible and can be driven by a single GPIO pin or two pins in parallel to cut down on data transmission times.
+**MicroDose is a remarkably tiny 20cm RGB LED strip featuring the smallest addressable LEDs in the world!** Featuring *128 ultra-bright 1mm RGB LEDs*, it makes for a very attractive looking option for displaying your Sensory Bridge output, or for any Arduino/CircuitPython project you can connect it to!
+
+(MicroDose is WS2812B-compatible and can be driven by a single GPIO pin or two pins in parallel to cut down on data transmission times.)
 
 [PURCHASE A MICRODOSE LED STRIP (50 USD)](purchase.html){: .btn .btn-green }
 
@@ -82,6 +84,12 @@ However, if you want to use Wiring Mode 2 for the dual data rate, MicroDose alre
 
 **The screw holes for mounting are M3, and are 36mm apart. The LEDs are 1mm² and have a 0.5mm gap between each, for a pitch of 1.5mm*
 
+## Open Source Hardware
+
+*Like all other Lixie Labs products*, MicroDose is Open Source Hardware. Want to print your parts in other colors? Make it taller? Add more LEDs? MicroDose is Open Source Hardware under the CERN-OHL-W-2.0 License, and anything you need to know about its internal parts can be found on the OSHW page:
+
+[MicroDose Hardware Files](hardware.html){: .btn .btn-blue }
+
 ## Product Photos
 
 ---------------------------------------
@@ -95,8 +103,4 @@ However, if you want to use Wiring Mode 2 for the dual data rate, MicroDose alre
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/micro_led_closeup.jpg?raw=true)
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_logo.jpg?raw=true)
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/rice_comparison.jpg?raw=true)
-
-## Open Source Hardware
-
-[MicroDose Hardware Files](hardware.html){: .btn .btn-blue }
 
