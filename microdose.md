@@ -9,7 +9,7 @@ has_toc: false
 
 **MicroDose is a remarkably tiny 20cm RGB LED strip made of *even tinier* RGB LEDs!** Featuring **128 1mm x 1mm** ultra-bright RGB LEDs, MicroDose is WS2812B compatible and can be driven by a single GPIO pin or two pins in parallel to cut down on data transmission times.
 
-[PURCHASE A MICRODOSE (50 USD)](purchase.html){: .btn .btn-green }
+[PURCHASE A MICRODOSE LED STRIP (50 USD)](purchase.html){: .btn .btn-green }
 
 Originally designed as an accessory for Sensory Bridge, MicroDose is also breadboard-compatible and has the following pinout:
 
