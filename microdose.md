@@ -52,16 +52,16 @@ CircuitPython doesn't yet support parallel data lines for WS2812B-compatible LED
 ```python
 import board, neopixel, time
 
-NUM_PIXELS  = 128
+NUM_LEDS    = 128
 DATA_1_GPIO = board.D1
-pixels      = neopixel.NeoPixel(DATA_PIN_1, NUM_PIXELS, brightness=0.25, auto_write=True)
+leds        = neopixel.NeoPixel(DATA_PIN_1, NUM_LEDS, brightness=0.25, auto_write=True)
 
 while True:
-    pixels.fill((255, 0, 0)) # Fill red
+    leds.fill((255, 0, 0)) # Fill red
     time.sleep(1)
-    pixels.fill((0, 255, 0)) # Fill green
+    leds.fill((0, 255, 0)) # Fill green
     time.sleep(1)
-    pixels.fill((0, 0, 255)) # Fill blue
+    leds.fill((0, 0, 255)) # Fill blue
     time.sleep(1)
 ```
 
