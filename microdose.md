@@ -84,6 +84,10 @@ However, if you want to use Wiring Mode 2 for the dual data rate, MicroDose alre
 
 ## Product Photos
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/seated.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/top.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/brace.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/breadboard.jpg?raw=true)
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/sb_plugged_in_2.jpg?raw=true)
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/_MG_0448.jpg?raw=true)
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/micro_led_closeup.jpg?raw=true)
