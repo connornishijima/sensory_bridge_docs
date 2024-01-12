@@ -1,11 +1,11 @@
 ---
-title: Microdose
+title: MicroDose
 layout: page
-nav_order: 4
+nav_order: 5
 has_toc: false
 ---
 
-# Microdose // 128 Micro-LED Strip
+# MicroDose // 128 Micro-LED Strip
 
 **MiniMast is a tiny 26cm RGB LED strip made of even tinier RGB LEDs!** Featuring 128 ultra-bright SK6805-EC15s, Mini Mast is WS2812B compatible and can be driven by a single GPIO pin.
 
