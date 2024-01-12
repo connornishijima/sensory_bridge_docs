@@ -9,8 +9,8 @@ has_toc: false
 
 **MiniMast is a tiny 26cm RGB LED strip made of tiny RGB LEDs!** Featuring 128 ultra-bright SK6805-EC15s, Mini Mast is WS2812B compatible and can be driven by a single GPIO pin.
 
-{: .info }
-> As of 1/12/24, MiniMast has been discontinued in favor of MicroDose, an even more impressively small LED strip.
+{: .highlight }
+> As of 1/12/24, MiniMast has been discontinued in favor of MicroDose, an even more impressively compact LED strip that optionally allows for dual data lines.
 >
 > [Purchase a MicroDose LED Strip](https://sensorybridge.rocks/microdose.html){: .btn .btn-green }
 
