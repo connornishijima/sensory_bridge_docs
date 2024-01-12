@@ -13,6 +13,8 @@ has_toc: false
 
 [PURCHASE A MICRODOSE LED STRIP (50 USD)](purchase.html){: .btn .btn-green }
 
+## Pinout
+
 Originally designed as an accessory for Sensory Bridge, MicroDose is also breadboard-compatible and has the following pinout:
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_pinout_transparent.png?raw=true)
