@@ -5,6 +5,8 @@ nav_order: 5
 has_toc: false
 ---
 
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_closeup.png?raw=true)
+
 # MicroDose // 128 Micro-LED Strip
 
 **MicroDose is a remarkably tiny 20cm RGB LED strip made of *even tinier* RGB LEDs!** Featuring **128 1mm** ultra-bright RGB LEDs, MicroDose is WS2812B compatible and can be driven by a single GPIO pin or two pins in parallel to cut down on data transmission times.
