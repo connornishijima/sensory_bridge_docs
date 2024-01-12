@@ -20,7 +20,8 @@ Sensory Bridge is printed in [Galaxy Black PLA by Prusa Research](https://www.pr
 | Product                      | STL FILE                                                                                                                                          |
 |:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Shell (Sensory Bridge)**   | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/SENSORY_BRIDGE_BASE.stl){: .btn .btn-green }  |
-| **Brace (Mini Mast)**        | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }      |
+| **Brace (MicroDose)**        | [DOWNLOAD STL](https://github.com/connornishijima/sensory_bridge_docs/blob/main/extras/OSHW/MICRODOSE_BRACE.stl){: .btn .btn-green }      |
+| **Brace (MiniMast)**         | [DOWNLOAD STL](https://github.com/connornishijima/SensoryBridge/blob/main/extras/OSHW/3D%20Printing/MINI_MAST_MOUNT.stl){: .btn .btn-green }      |
 
 -------------------------------------------------
 
@@ -31,7 +32,8 @@ Sensory Bridge uses M3 screws and nuts to stay together:
 | Product              | M3 Nut     | M3 Screw (6mm)    | M3 Screw (12mm)  |
 |:---------------------|:-----------|:------------------|:-----------------|
 | **Sensory Bridge**   | 4          | 4                 | 0                |
-| **Mini Mast**        | 2          | 2                 | 2                |
+| **MicroDose**        | 2          | 2                 | 2                |
+| **MiniMast**         | 2          | 2                 | 2                |
 
 {: .info }
 The M3 nuts friction-fit with their plastic counterparts inside Sensory Bridge, and can be nearly impossible to remove without re-printing the whole shell. Make sure to buy some spares for experimentation.
@@ -61,4 +63,5 @@ Sensory Bridge and its accessory circuit boards are designed in EAGLE. There's a
 ### Board/Schematic Files:
 
 [SENSORY BRIDGE](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
-[MINI MAST](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
+[MICRODOSE](https://github.com/connornishijima/sensory_bridge_docs/tree/main/extras/OSHW){: .btn .btn-green }
+[MINIMAST](https://github.com/connornishijima/SensoryBridge/tree/main/extras/OSHW/PCB){: .btn .btn-green }
