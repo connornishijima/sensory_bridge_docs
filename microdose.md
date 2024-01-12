@@ -80,4 +80,4 @@ However, if you want to use Wiring Mode 2 for the dual data rate, MicroDose alre
 
 **The screw holes for mounting are M3, and are 36mm apart. The LEDs are 1mm² and have a 0.5mm gap between each, for a pitch of 1.5mm*
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast8.jpg?raw=true)
+![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/_MG_0448.jpg?raw=true)
