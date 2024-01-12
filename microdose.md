@@ -11,8 +11,6 @@ has_toc: false
 
 [PURCHASE A MICRODOSE (50 USD)](purchase.html){: .btn .btn-green }
 
-![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/mast1.png?raw=true)
-
 Originally designed as an accessory for Sensory Bridge, MicroDose is also breadboard-compatible and has the following pinout:
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_pinout_transparent.png?raw=true)
