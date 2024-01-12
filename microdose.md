@@ -20,8 +20,6 @@ Originally designed as an accessory for Sensory Bridge, MicroDose is also breadb
 To set up both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
 
 ```cpp
-// Minimal MicroDose Arduino Sketch
-
 #include "FastLED.h"       // Import FastLED library
 #define NUM_LEDS   ( 128 ) // MicroDose has 128 LEDs
 #define DATA_PIN_1 ( 12 )  // GPIO pin for Data 1 line
