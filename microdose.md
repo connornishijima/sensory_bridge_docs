@@ -21,6 +21,12 @@ Originally designed as an accessory for Sensory Bridge, MicroDose is also breadb
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_pinout_transparent.png?raw=true)
 
+## Sensory Bridge Usage
+
+To use MicroDose with Sensory Bridge, you need to update your Sensory Bridge firmware to at least 4.1.0, and change your LED strip setting from `NEOPIXEL` to `NEOPIXEL X2`. Alternatively, you can change the Wiring Mode jumper on the back of the PCB to use Mode 1 (single data pin mode) if you don't want to use the higher refresh rates or update your firmware.
+
+[Update/Configure Your Sensory Bridge](https://settings.sensorybridge.rocks){: .btn .btn-blue }
+
 ## Arduino Usage
 
 To use both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
