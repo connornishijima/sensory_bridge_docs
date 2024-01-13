@@ -97,13 +97,13 @@ To allow for all LEDs to be driven with a single GPIO, add solder to connect the
 
 However, if you want to use Wiring Mode 2 for the dual data rate, MicroDose already has an internal copper short between the "2" pad and the center - which you can cut if you require the DATA 2 pin to be completely disconnected from the LEDs for some reason.
 
-**The screw holes for mounting are M3, and are 36mm apart. The LEDs are 1mm² and have a 0.5mm gap between each, for a pitch of 1.5mm*
-
 ## Open Source Hardware
 
 *Like all other Lixie Labs products*, MicroDose is Open Source Hardware. Want to print your parts in other colors? Make it taller? Add more LEDs? MicroDose is Open Source Hardware under the CERN-OHL-W-2.0 License, and anything you need to know about its internal parts can be found on the OSHW page:
 
 [MicroDose Hardware Files](hardware.html){: .btn .btn-blue }
+
+**The screw holes for mounting are M3, and are 36mm apart. The LEDs are 1mm² and have a 0.5mm gap between each, for a pitch of 1.5mm*
 
 ## Product Photos
 
