@@ -34,7 +34,9 @@ To use MicroDose with Sensory Bridge, you need to update your Sensory Bridge fir
 
 ## Arduino Usage
 
-Besides using MicroDose as an accessory to Sensory Bridge, you can deploy it in any microcontroller project that needs it! By default, MicroDose is configured to use two GPIO to drive each half of the display in parallel to increase the maximum possible framerate. To use both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
+Besides using MicroDose as an accessory to Sensory Bridge, you can deploy it in any microcontroller project that needs it! By default, MicroDose is configured to use two GPIO to drive each half of the display in parallel to increase the maximum possible framerate.
+
+To use both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
 
 ```cpp
 #include "FastLED.h"        // Import FastLED library
