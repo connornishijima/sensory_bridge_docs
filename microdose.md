@@ -9,7 +9,7 @@ has_toc: false
 
 # MicroDose // 128 Micro-LED Strip
 
-**MicroDose is a remarkably tiny 20cm RGB LED strip featuring the smallest addressable LEDs in the world!** Featuring *128 ultra-bright 1mm RGB LEDs*, it makes for a very attractive looking option for displaying your Sensory Bridge output, or for any Arduino/CircuitPython project you can connect it to!
+**MicroDose is a remarkably tiny 20cm RGB LED strip with world's smallest addressable LEDs!** Featuring *128 ultra-bright 1mm RGB LEDs*, it makes for a very attractive looking option for displaying your Sensory Bridge output, or for any Arduino/CircuitPython project you can connect it to!
 
 (MicroDose is WS2812B-compatible and can be driven by a single GPIO pin or two pins in parallel to cut down on data transmission times.)
 
@@ -22,7 +22,7 @@ has_toc: false
 
 ## Pinout Diagram
 
-Originally designed as an accessory for Sensory Bridge, MicroDose is also breadboard-compatible and has the following pinout:
+Originally designed as an accessory for Sensory Bridge, MicroDose is also breadboard-compatible for any project you'd like, and has the following pinout:
 
 ![SENSORY BRIDGE IS SIMPLE](https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/microdose_pinout_transparent.png?raw=true)
 
@@ -34,7 +34,7 @@ To use MicroDose with Sensory Bridge, you need to update your Sensory Bridge fir
 
 ## Arduino Usage
 
-To use both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
+Besides using MicroDose as an accessory to Sensory Bridge, you can deploy it in any microcontroller project that needs it! By default, MicroDose is configured to use two GPIO to drive each half of the display in parallel to increase the maximum possible framerate. To use both data lines in parallel for a higher refresh rate, you can use this Arduino Sketch as a template:
 
 ```cpp
 #include "FastLED.h"        // Import FastLED library
@@ -60,9 +60,11 @@ void loop() {
 }
 ```
 
+(If you've reconfigured your MicroDose to run on a single GPIO via the solder jumper on the back, you can use any existing FastLED/NeoPixel/WLED/PixelBlaze code without any special changes.)
+
 ## CircuitPython Usage
 
-CircuitPython doesn't yet support parallel data lines for WS2812B-compatible LEDs like these, so after physically changing the Wiring Mode to "1" you can use this code to demonstrate the display:
+CircuitPython doesn't yet support parallel data lines for WS2812B-compatible LEDs like these, so after physically changing the Wiring Mode to "1" via the solder jumper on the back of MicroDose, you can use this code to demonstrate the display:
 
 ```python
 import board, neopixel, time
