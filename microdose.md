@@ -15,7 +15,7 @@ has_toc: false
 
 [PURCHASE A MICRODOSE LED STRIP (50 USD)](purchase.html){: .btn .btn-green }
 
-<video width="800" height="450" autoplay loop muted>
+<video class="youtube-video" autoplay loop muted>
     <source src="https://github.com/connornishijima/sensory_bridge_docs/blob/main/img/LOOP_BRIGHT.mp4?raw=true" type="video/mp4">
     Your browser does not support the video tag.
 </video>
