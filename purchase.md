@@ -12,7 +12,7 @@ Both Sensory Bridge and MicroDose are available separately for sale on the Lixie
 
 Current prices for each are:
 
-| Product               | Price          |  LINK                                                                                                          |
-|:----------------------|:---------------|:---------------------------------------------------------------------------------------------------------------|
-| **Sensory Bridge**    |  **$60 USD**   | [PURCHASE](https://lectronz.com/products/sensory-bridge-an-advanced-led-music-visualizer){: .btn .btn-green }  |
-| **MicroDose**         |  **$50 USD**   | [PURCHASE](https://lectronz.com/products/microdose){: .btn .btn-green }                                        |
+| Product               | Price          |  LINK                                                                         |
+|:----------------------|:---------------|:------------------------------------------------------------------------------|
+| **Sensory Bridge**    |  **$60 USD**   | [PURCHASE](https://lectronz.com/products/sensory-bridge){: .btn .btn-green }  |
+| **MicroDose**         |  **$50 USD**   | [PURCHASE](https://lectronz.com/products/microdose){: .btn .btn-green }       |
