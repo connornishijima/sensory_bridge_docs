@@ -14,5 +14,5 @@ Current prices for each are:
 
 | Product               | Price          |  LINK                                                                         |
 |:----------------------|:---------------|:------------------------------------------------------------------------------|
-| **Sensory Bridge**    |  **$60 USD**   | [PURCHASE](https://lectronz.com/products/sensory-bridge){: .btn .btn-green }  |
-| **MicroDose**         |  **$50 USD**   | [PURCHASE](https://lectronz.com/products/microdose){: .btn .btn-green }       |
+| **Sensory Bridge**    |  **$60 USD**   | [PURCHASE](https://www.tindie.com/products/lixielabs/sensory-bridge-an-advanced-led-music-visualizer/){: .btn .btn-green }  |
+| **MicroDose**         |  **$50 USD**   | [PURCHASE](https://www.tindie.com/products/lixielabs/microdose-128-rgb-leds-in-the-length-of-a-pencil/){: .btn .btn-green }       |
